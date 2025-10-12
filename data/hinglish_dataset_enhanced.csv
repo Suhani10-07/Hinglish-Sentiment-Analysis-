@@ -1,0 +1,611 @@
+original_text,sentiment,normalized_text,text_length,word_count,created_date
+camera quality bahut achha hai,positive,camera quality bahut achha hai,30,5,2025-10-12
+frustrating predictable story plot,negative,frustrating predictable story plot,34,4,2025-10-12
+fantastic storyline and superb acting,positive,fantastic storyline and superb acting,37,5,2025-10-12
+build quality is fine,neutral,build quality is fine,21,4,2025-10-12
+awful chemistry lead pair,negative,awful chemistry lead pair,25,4,2025-10-12
+fantastic storyline and superb acting,positive,fantastic storyline and superb acting,37,5,2025-10-12
+service was fine nothing special,neutral,service was fine nothing special,32,5,2025-10-12
+service bahut ganda tha,negative,service bahut ganda tha,23,4,2025-10-12
+comedy scenes were okay okay,neutral,comedy scenes were okay okay,28,5,2025-10-12
+pathetic weather ruined trip,negative,pathetic weather ruined trip,28,4,2025-10-12
+place was really disappointing yaar,negative,place was really disappointing yaar,35,5,2025-10-12
+movie was totally booooring yaar,negative,movie was totally boring yaar,29,5,2025-10-12
+excellent progress career wise,positive,excellent progress career wise,30,4,2025-10-12
+lost job yaar very sad,negative,lost job yaar very sad,22,5,2025-10-12
+awful facilities provided tourists,negative,awful facilities provided tourists,34,4,2025-10-12
+restaurant food was terrrible yaar,negative,restaurant food was terrible yaar,33,5,2025-10-12
+drama portions were decent,neutral,drama portions were decent,26,4,2025-10-12
+performance is decent enough,neutral,performance is decent enough,28,4,2025-10-12
+goooood acting by hero and heroine,positive,good acting by hero and heroine,31,6,2025-10-12
+amazingggg cinematography and direction,positive,amazing cinematography and direction,36,4,2025-10-12
+wonderful weather throughout visit,positive,wonderful weather throughout visit,34,4,2025-10-12
+frustrating wrong orders delivered,negative,frustrating wrong orders delivered,34,4,2025-10-12
+food options were fine,neutral,food options were fine,22,4,2025-10-12
+fantastic variety menu available,positive,fantastic variety menu available,32,4,2025-10-12
+camera quality bahut achha hai,positive,camera quality bahut achha hai,30,5,2025-10-12
+awful user interface design,negative,awful user interface design,27,4,2025-10-12
+camera quality is okay,neutral,camera quality is okay,22,4,2025-10-12
+really enjoyed the emotional scenes,positive,really enjoyed the emotional scenes,35,5,2025-10-12
+disgusting office politics happening,negative,disgusting office politics happening,36,4,2025-10-12
+frustrating slow pace movie,negative,frustrating slow pace movie,27,4,2025-10-12
+best movie ever dekhi hai life mein,positive,best movie ever dekhi hai life mein,35,7,2025-10-12
+frustrating slow pace movie,negative,frustrating slow pace movie,27,4,2025-10-12
+superb quality maintained always,positive,superb quality maintained always,32,4,2025-10-12
+frustrating wrong orders delivered,negative,frustrating wrong orders delivered,34,4,2025-10-12
+performance is decent enough,neutral,performance is decent enough,28,4,2025-10-12
+place visit was okay experience,neutral,place visit was okay experience,31,5,2025-10-12
+waiting time was okay,neutral,waiting time was okay,21,4,2025-10-12
+terrible direction and screenplay,negative,terrible direction and screenplay,33,4,2025-10-12
+baaaaad editing work shown,negative,bad editing work shown,22,4,2025-10-12
+phone performance is awwwesome yaar,positive,phone performance is awesome yaar,33,5,2025-10-12
+weather conditions were decent,neutral,weather conditions were decent,30,4,2025-10-12
+staff behavior was decent,neutral,staff behavior was decent,25,4,2025-10-12
+phone performance is bakwas yaar,negative,phone performance is bakwas yaar,32,5,2025-10-12
+awful performances all actors,negative,awful performances all actors,29,4,2025-10-12
+bahut achha performance by all actors,positive,bahut achha performance by all actors,37,6,2025-10-12
+meeting went okay discussed points,neutral,meeting went okay discussed points,34,5,2025-10-12
+really happy with result,positive,really happy with result,24,4,2025-10-12
+lost job yaar very sad,negative,lost job yaar very sad,22,5,2025-10-12
+restaurant ka khana was sooooo good,positive,restaurant ka khana was so good,31,6,2025-10-12
+pathetic build quality materials,negative,pathetic build quality materials,32,4,2025-10-12
+acting was decent enough yaar,neutral,acting was decent enough yaar,29,5,2025-10-12
+paisa vasool entertainment full masti,positive,paisa vasool entertainment full masti,37,5,2025-10-12
+amazing learning opportunities available,positive,amazing learning opportunities available,40,4,2025-10-12
+amazing battery life throughout day,positive,amazing battery life throughout day,35,5,2025-10-12
+build quality is fine,neutral,build quality is fine,21,4,2025-10-12
+battery drains very fastly,negative,battery drains very fastly,26,4,2025-10-12
+work day was normal nothing special,neutral,work day was normal nothing special,35,6,2025-10-12
+frustrating predictable story plot,negative,frustrating predictable story plot,34,4,2025-10-12
+great value for money definitely,positive,great value for money definitely,32,5,2025-10-12
+food quality was decent enough,neutral,food quality was decent enough,30,5,2025-10-12
+baaaaad editing work shown,negative,bad editing work shown,22,4,2025-10-12
+excellent ambiance for dining,positive,excellent ambiance for dining,29,4,2025-10-12
+excellent screenplay and editing work,positive,excellent screenplay and editing work,37,5,2025-10-12
+transportation was decent available,neutral,transportation was decent available,35,4,2025-10-12
+music was acceptable quality,neutral,music was acceptable quality,28,4,2025-10-12
+amazing natural scenery everywhere,positive,amazing natural scenery everywhere,34,4,2025-10-12
+disgusting kitchen conditions visible,negative,disgusting kitchen conditions visible,37,4,2025-10-12
+excellent build quality materials,positive,excellent build quality materials,33,4,2025-10-12
+disgusting lag gaming experience,negative,disgusting lag gaming experience,32,4,2025-10-12
+performances were average level,neutral,performances were average level,31,4,2025-10-12
+fantastic variety menu available,positive,fantastic variety menu available,32,4,2025-10-12
+hygiene standards were fine,neutral,hygiene standards were fine,27,4,2025-10-12
+really enjoyed the emotional scenes,positive,really enjoyed the emotional scenes,35,5,2025-10-12
+pathetic staff behavior throughout,negative,pathetic staff behavior throughout,34,4,2025-10-12
+amazing taste and presentation both,positive,amazing taste and presentation both,35,5,2025-10-12
+waiting time was okay,neutral,waiting time was okay,21,4,2025-10-12
+totally satisfied with meal,positive,totally satisfied with meal,27,4,2025-10-12
+work day was normal nothing special,neutral,work day was normal nothing special,35,6,2025-10-12
+really disappointing story line,negative,really disappointing story line,31,4,2025-10-12
+battery drains very fastly,negative,battery drains very fastly,26,4,2025-10-12
+frustrating predictable story plot,negative,frustrating predictable story plot,34,4,2025-10-12
+action sequences were fine,neutral,action sequences were fine,26,4,2025-10-12
+baaaaad editing work shown,negative,bad editing work shown,22,4,2025-10-12
+ekdum mast comedy scenes throughout,positive,ekdum mast comedy scenes throughout,35,5,2025-10-12
+battery drains very fastly,negative,battery drains very fastly,26,4,2025-10-12
+bad direction confused viewers,negative,bad direction confused viewers,30,4,2025-10-12
+food quality was decent enough,neutral,food quality was decent enough,30,5,2025-10-12
+disgusting kitchen conditions visible,negative,disgusting kitchen conditions visible,37,4,2025-10-12
+music was acceptable quality,neutral,music was acceptable quality,28,4,2025-10-12
+fantastic app store available,positive,fantastic app store available,29,4,2025-10-12
+goooood acting by hero and heroine,positive,good acting by hero and heroine,31,6,2025-10-12
+pathetic climax sequence given,negative,pathetic climax sequence given,30,4,2025-10-12
+food quality was decent enough,neutral,food quality was decent enough,30,5,2025-10-12
+annoying background score throughout,negative,annoying background score throughout,36,4,2025-10-12
+camera quality bahut achha hai,positive,camera quality bahut achha hai,30,5,2025-10-12
+really happy with result,positive,really happy with result,24,4,2025-10-12
+service was fine nothing special,neutral,service was fine nothing special,32,5,2025-10-12
+screenplay was okay written,neutral,screenplay was okay written,27,4,2025-10-12
+really fresh ingredients used,positive,really fresh ingredients used,29,4,2025-10-12
+really peaceful environment there,positive,really peaceful environment there,33,4,2025-10-12
+local people were okay,neutral,local people were okay,22,4,2025-10-12
+drama portions were decent,neutral,drama portions were decent,26,4,2025-10-12
+totally worth the money spent,positive,totally worth the money spent,29,5,2025-10-12
+team performance was average,neutral,team performance was average,28,4,2025-10-12
+wonderful gaming experience provided,positive,wonderful gaming experience provided,36,4,2025-10-12
+pathetic boss behavior always,negative,pathetic boss behavior always,29,4,2025-10-12
+story line was average type,neutral,story line was average type,27,5,2025-10-12
+goooood acting by hero and heroine,positive,good acting by hero and heroine,31,6,2025-10-12
+loved every single moment yaar,positive,loved every single moment yaar,30,5,2025-10-12
+facilities provided were fine,neutral,facilities provided were fine,29,4,2025-10-12
+annoying app crashes frequently,negative,annoying app crashes frequently,31,4,2025-10-12
+direction was fine not bad,neutral,direction was fine not bad,26,5,2025-10-12
+perfect blend of comedy and drama,positive,perfect blend of comedy and drama,33,6,2025-10-12
+really poor camera quality,negative,really poor camera quality,26,4,2025-10-12
+really smooth user interface,positive,really smooth user interface,28,4,2025-10-12
+amazing natural scenery everywhere,positive,amazing natural scenery everywhere,34,4,2025-10-12
+battery drains very fastly,negative,battery drains very fastly,26,4,2025-10-12
+movie was okay nothing special,neutral,movie was okay nothing special,30,5,2025-10-12
+staff behavior was decent,neutral,staff behavior was decent,25,4,2025-10-12
+build quality is fine,neutral,build quality is fine,21,4,2025-10-12
+great chemistry between lead pair,positive,great chemistry between lead pair,33,5,2025-10-12
+great value for money definitely,positive,great value for money definitely,32,5,2025-10-12
+really fresh ingredients used,positive,really fresh ingredients used,29,4,2025-10-12
+action sequences were fine,neutral,action sequences were fine,26,4,2025-10-12
+frustrating display clarity poor,negative,frustrating display clarity poor,32,4,2025-10-12
+really bad taste everything,negative,really bad taste everything,27,4,2025-10-12
+amazing battery life throughout day,positive,amazing battery life throughout day,35,5,2025-10-12
+excellent ambiance for dining,positive,excellent ambiance for dining,29,4,2025-10-12
+place was really disappointing yaar,negative,place was really disappointing yaar,35,5,2025-10-12
+superb quality maintained always,positive,superb quality maintained always,32,4,2025-10-12
+outstanding music and visual effects,positive,outstanding music and visual effects,36,5,2025-10-12
+superb display clarity always,positive,superb display clarity always,29,4,2025-10-12
+terrible financial situation now,negative,terrible financial situation now,32,4,2025-10-12
+loved every single moment yaar,positive,loved every single moment yaar,30,5,2025-10-12
+food options were fine,neutral,food options were fine,22,4,2025-10-12
+team performance was average,neutral,team performance was average,28,4,2025-10-12
+terrible direction and screenplay,negative,terrible direction and screenplay,33,4,2025-10-12
+camera quality is okay,neutral,camera quality is okay,22,4,2025-10-12
+awful work pressure daily,negative,awful work pressure daily,25,4,2025-10-12
+excellent build quality materials,positive,excellent build quality materials,33,4,2025-10-12
+place is absolutely beautiful yaar,positive,place is absolutely beautiful yaar,34,5,2025-10-12
+fantastic work environment here,positive,fantastic work environment here,31,4,2025-10-12
+annoying dialogues delivery style,negative,annoying dialogues delivery style,33,4,2025-10-12
+work day was normal nothing special,neutral,work day was normal nothing special,35,6,2025-10-12
+hygiene standards were fine,neutral,hygiene standards were fine,27,4,2025-10-12
+amazing battery life throughout day,positive,amazing battery life throughout day,35,5,2025-10-12
+wonderful experience with friends,positive,wonderful experience with friends,33,4,2025-10-12
+wonderful weather throughout visit,positive,wonderful weather throughout visit,34,4,2025-10-12
+waste of time and money,negative,waste of time and money,23,5,2025-10-12
+great chemistry between lead pair,positive,great chemistry between lead pair,33,5,2025-10-12
+excellent screenplay and editing work,positive,excellent screenplay and editing work,37,5,2025-10-12
+movie was okay nothing special,neutral,movie was okay nothing special,30,5,2025-10-12
+restaurant experience was okay yaar,neutral,restaurant experience was okay yaar,35,5,2025-10-12
+place is absolutely beautiful yaar,positive,place is absolutely beautiful yaar,34,5,2025-10-12
+drama portions were decent,neutral,drama portions were decent,26,4,2025-10-12
+beautiful locations and costumes,positive,beautiful locations and costumes,32,4,2025-10-12
+annoying local people behavior,negative,annoying local people behavior,30,4,2025-10-12
+menu variety was decent,neutral,menu variety was decent,23,4,2025-10-12
+really smooth user interface,positive,really smooth user interface,28,4,2025-10-12
+yaar this movie was totally awwwesome,positive,yaar this movie was totally awesome,35,6,2025-10-12
+transportation was decent available,neutral,transportation was decent available,35,4,2025-10-12
+local people were okay,neutral,local people were okay,22,4,2025-10-12
+terrible direction and screenplay,negative,terrible direction and screenplay,33,4,2025-10-12
+awful facilities provided tourists,negative,awful facilities provided tourists,34,4,2025-10-12
+disgusting office politics happening,negative,disgusting office politics happening,36,4,2025-10-12
+horrible music composition done,negative,horrible music composition done,31,4,2025-10-12
+amazing taste and presentation both,positive,amazing taste and presentation both,35,5,2025-10-12
+phone features are okay yaar,neutral,phone features are okay yaar,28,5,2025-10-12
+totally worth the money spent,positive,totally worth the money spent,29,5,2025-10-12
+really peaceful environment there,positive,really peaceful environment there,33,4,2025-10-12
+battery life is fine,neutral,battery life is fine,20,4,2025-10-12
+terrible financial situation now,negative,terrible financial situation now,32,4,2025-10-12
+great chemistry between lead pair,positive,great chemistry between lead pair,33,5,2025-10-12
+really poor production values,negative,really poor production values,29,4,2025-10-12
+bad value money definitely,negative,bad value money definitely,26,4,2025-10-12
+got promotion yaar dreams true,positive,got promotion yaar dreams true,30,5,2025-10-12
+frustrating slow pace movie,negative,frustrating slow pace movie,27,4,2025-10-12
+phone performance is bakwas yaar,negative,phone performance is bakwas yaar,32,5,2025-10-12
+restaurant experience was okay yaar,neutral,restaurant experience was okay yaar,35,5,2025-10-12
+restaurant food was terrrible yaar,negative,restaurant food was terrible yaar,33,5,2025-10-12
+annoying dialogues delivery style,negative,annoying dialogues delivery style,33,4,2025-10-12
+bakwas acting throughout film,negative,bakwas acting throughout film,29,4,2025-10-12
+bad value money definitely,negative,bad value money definitely,26,4,2025-10-12
+service was fine nothing special,neutral,service was fine nothing special,32,5,2025-10-12
+beautiful locations and costumes,positive,beautiful locations and costumes,32,4,2025-10-12
+best movie ever dekhi hai life mein,positive,best movie ever dekhi hai life mein,35,7,2025-10-12
+place visit was okay experience,neutral,place visit was okay experience,31,5,2025-10-12
+excellent progress career wise,positive,excellent progress career wise,30,4,2025-10-12
+fantastic adventure activities available,positive,fantastic adventure activities available,40,4,2025-10-12
+music was acceptable quality,neutral,music was acceptable quality,28,4,2025-10-12
+outstanding music and visual effects,positive,outstanding music and visual effects,36,5,2025-10-12
+bad value money definitely,negative,bad value money definitely,26,4,2025-10-12
+presentation was decent quality,neutral,presentation was decent quality,31,4,2025-10-12
+food options were fine,neutral,food options were fine,22,4,2025-10-12
+food options were fine,neutral,food options were fine,22,4,2025-10-12
+team performance was average,neutral,team performance was average,28,4,2025-10-12
+menu variety was decent,neutral,menu variety was decent,23,4,2025-10-12
+pathetic boss behavior always,negative,pathetic boss behavior always,29,4,2025-10-12
+movie was okay nothing special,neutral,movie was okay nothing special,30,5,2025-10-12
+service bahut ganda tha,negative,service bahut ganda tha,23,4,2025-10-12
+disgusting office politics happening,negative,disgusting office politics happening,36,4,2025-10-12
+meeting went okay discussed points,neutral,meeting went okay discussed points,34,5,2025-10-12
+mind blowing climax sequence,positive,mind blowing climax sequence,28,4,2025-10-12
+presentation was decent quality,neutral,presentation was decent quality,31,4,2025-10-12
+hygiene standards were fine,neutral,hygiene standards were fine,27,4,2025-10-12
+pathetic build quality materials,negative,pathetic build quality materials,32,4,2025-10-12
+project deadline was manageable,neutral,project deadline was manageable,31,4,2025-10-12
+disgusting visual effects quality,negative,disgusting visual effects quality,33,4,2025-10-12
+baaaaad editing work shown,negative,bad editing work shown,22,4,2025-10-12
+fantastic work environment here,positive,fantastic work environment here,31,4,2025-10-12
+excellent ambiance for dining,positive,excellent ambiance for dining,29,4,2025-10-12
+menu variety was decent,neutral,menu variety was decent,23,4,2025-10-12
+performances were average level,neutral,performances were average level,31,4,2025-10-12
+wonderful gaming experience provided,positive,wonderful gaming experience provided,36,4,2025-10-12
+pathetic staff behavior throughout,negative,pathetic staff behavior throughout,34,4,2025-10-12
+frustrating slow pace movie,negative,frustrating slow pace movie,27,4,2025-10-12
+place visit was okay experience,neutral,place visit was okay experience,31,5,2025-10-12
+comedy scenes were okay okay,neutral,comedy scenes were okay okay,28,5,2025-10-12
+really stressed about future,negative,really stressed about future,28,4,2025-10-12
+camera quality bahut achha hai,positive,camera quality bahut achha hai,30,5,2025-10-12
+camera quality is okay,neutral,camera quality is okay,22,4,2025-10-12
+story line was average type,neutral,story line was average type,27,5,2025-10-12
+camera quality is okay,neutral,camera quality is okay,22,4,2025-10-12
+project deadline was manageable,neutral,project deadline was manageable,31,4,2025-10-12
+facilities provided were fine,neutral,facilities provided were fine,29,4,2025-10-12
+superb dialogue delivery by actors,positive,superb dialogue delivery by actors,34,5,2025-10-12
+really disappointing story line,negative,really disappointing story line,31,4,2025-10-12
+excellent facilities provided tourists,positive,excellent facilities provided tourists,38,4,2025-10-12
+action sequences were fine,neutral,action sequences were fine,26,4,2025-10-12
+brilliant direction must watch hai,positive,brilliant direction must watch hai,34,5,2025-10-12
+weather conditions were decent,neutral,weather conditions were decent,30,4,2025-10-12
+mind blowing climax sequence,positive,mind blowing climax sequence,28,4,2025-10-12
+amazing taste and presentation both,positive,amazing taste and presentation both,35,5,2025-10-12
+food options were fine,neutral,food options were fine,22,4,2025-10-12
+ekdum mast comedy scenes throughout,positive,ekdum mast comedy scenes throughout,35,5,2025-10-12
+meeting went okay discussed points,neutral,meeting went okay discussed points,34,5,2025-10-12
+lost job yaar very sad,negative,lost job yaar very sad,22,5,2025-10-12
+transportation was decent available,neutral,transportation was decent available,35,4,2025-10-12
+screenplay was okay written,neutral,screenplay was okay written,27,4,2025-10-12
+frustrating predictable story plot,negative,frustrating predictable story plot,34,4,2025-10-12
+fantastic work environment here,positive,fantastic work environment here,31,4,2025-10-12
+really bad taste everything,negative,really bad taste everything,27,4,2025-10-12
+wonderful experience with friends,positive,wonderful experience with friends,33,4,2025-10-12
+direction was fine not bad,neutral,direction was fine not bad,26,5,2025-10-12
+restaurant food was terrrible yaar,negative,restaurant food was terrible yaar,33,5,2025-10-12
+pathetic comedy scenes tried,negative,pathetic comedy scenes tried,28,4,2025-10-12
+performance is decent enough,neutral,performance is decent enough,28,4,2025-10-12
+really stressed about future,negative,really stressed about future,28,4,2025-10-12
+wonderful weather throughout visit,positive,wonderful weather throughout visit,34,4,2025-10-12
+transportation was decent available,neutral,transportation was decent available,35,4,2025-10-12
+food quality was decent enough,neutral,food quality was decent enough,30,5,2025-10-12
+screenplay was okay written,neutral,screenplay was okay written,27,4,2025-10-12
+terrible crowd management there,negative,terrible crowd management there,31,4,2025-10-12
+food quality was decent enough,neutral,food quality was decent enough,30,5,2025-10-12
+waiting time was okay,neutral,waiting time was okay,21,4,2025-10-12
+build quality is fine,neutral,build quality is fine,21,4,2025-10-12
+best movie ever dekhi hai life mein,positive,best movie ever dekhi hai life mein,35,7,2025-10-12
+fantastic variety menu available,positive,fantastic variety menu available,32,4,2025-10-12
+waste of time and money,negative,waste of time and money,23,5,2025-10-12
+really enjoyed the emotional scenes,positive,really enjoyed the emotional scenes,35,5,2025-10-12
+really fresh ingredients used,positive,really fresh ingredients used,29,4,2025-10-12
+brilliant direction must watch hai,positive,brilliant direction must watch hai,34,5,2025-10-12
+really disappointed quality food,negative,really disappointed quality food,32,4,2025-10-12
+really bad taste everything,negative,really bad taste everything,27,4,2025-10-12
+beautiful locations and costumes,positive,beautiful locations and costumes,32,4,2025-10-12
+awful performances all actors,negative,awful performances all actors,29,4,2025-10-12
+awful performances all actors,negative,awful performances all actors,29,4,2025-10-12
+really poor production values,negative,really poor production values,29,4,2025-10-12
+performances were average level,neutral,performances were average level,31,4,2025-10-12
+amazing natural scenery everywhere,positive,amazing natural scenery everywhere,34,4,2025-10-12
+weather conditions were decent,neutral,weather conditions were decent,30,4,2025-10-12
+meeting went okay discussed points,neutral,meeting went okay discussed points,34,5,2025-10-12
+frustrating wrong orders delivered,negative,frustrating wrong orders delivered,34,4,2025-10-12
+got promotion yaar dreams true,positive,got promotion yaar dreams true,30,5,2025-10-12
+phone performance is awwwesome yaar,positive,phone performance is awesome yaar,33,5,2025-10-12
+food quality was decent enough,neutral,food quality was decent enough,30,5,2025-10-12
+annoying app crashes frequently,negative,annoying app crashes frequently,31,4,2025-10-12
+bad direction confused viewers,negative,bad direction confused viewers,30,4,2025-10-12
+fantastic storyline and superb acting,positive,fantastic storyline and superb acting,37,5,2025-10-12
+really happy with result,positive,really happy with result,24,4,2025-10-12
+movie was totally booooring yaar,negative,movie was totally boring yaar,29,5,2025-10-12
+disgusting office politics happening,negative,disgusting office politics happening,36,4,2025-10-12
+awful facilities provided tourists,negative,awful facilities provided tourists,34,4,2025-10-12
+totally worth the money spent,positive,totally worth the money spent,29,5,2025-10-12
+amazing learning opportunities available,positive,amazing learning opportunities available,40,4,2025-10-12
+staff behavior was decent,neutral,staff behavior was decent,25,4,2025-10-12
+work day was normal nothing special,neutral,work day was normal nothing special,35,6,2025-10-12
+paisa vasool entertainment full masti,positive,paisa vasool entertainment full masti,37,5,2025-10-12
+pathetic build quality materials,negative,pathetic build quality materials,32,4,2025-10-12
+hygiene standards were fine,neutral,hygiene standards were fine,27,4,2025-10-12
+display clarity is decent,neutral,display clarity is decent,25,4,2025-10-12
+restaurant experience was okay yaar,neutral,restaurant experience was okay yaar,35,5,2025-10-12
+disgusting overacting all around,negative,disgusting overacting all around,32,4,2025-10-12
+disgusting kitchen conditions visible,negative,disgusting kitchen conditions visible,37,4,2025-10-12
+fantastic variety menu available,positive,fantastic variety menu available,32,4,2025-10-12
+acting was decent enough yaar,neutral,acting was decent enough yaar,29,5,2025-10-12
+terrible costume and makeup,negative,terrible costume and makeup,27,4,2025-10-12
+yaar this movie was totally awwwesome,positive,yaar this movie was totally awesome,35,6,2025-10-12
+really disappointed quality food,negative,really disappointed quality food,32,4,2025-10-12
+superb display clarity always,positive,superb display clarity always,29,4,2025-10-12
+brilliant direction must watch hai,positive,brilliant direction must watch hai,34,5,2025-10-12
+frustrating display clarity poor,negative,frustrating display clarity poor,32,4,2025-10-12
+screenplay was okay written,neutral,screenplay was okay written,27,4,2025-10-12
+wonderful experience with friends,positive,wonderful experience with friends,33,4,2025-10-12
+action sequences were fine,neutral,action sequences were fine,26,4,2025-10-12
+horrible music composition done,negative,horrible music composition done,31,4,2025-10-12
+got promotion yaar dreams true,positive,got promotion yaar dreams true,30,5,2025-10-12
+screenplay was okay written,neutral,screenplay was okay written,27,4,2025-10-12
+awful user interface design,negative,awful user interface design,27,4,2025-10-12
+ambiance was okay type,neutral,ambiance was okay type,22,4,2025-10-12
+place visit was okay experience,neutral,place visit was okay experience,31,5,2025-10-12
+beautiful locations and costumes,positive,beautiful locations and costumes,32,4,2025-10-12
+frustrating wrong orders delivered,negative,frustrating wrong orders delivered,34,4,2025-10-12
+great chemistry between lead pair,positive,great chemistry between lead pair,33,5,2025-10-12
+really poor camera quality,negative,really poor camera quality,26,4,2025-10-12
+wonderful experience in theater,positive,wonderful experience in theater,31,4,2025-10-12
+annoying dialogues delivery style,negative,annoying dialogues delivery style,33,4,2025-10-12
+fantastic adventure activities available,positive,fantastic adventure activities available,40,4,2025-10-12
+amazingggg cinematography and direction,positive,amazing cinematography and direction,36,4,2025-10-12
+disgusting lag gaming experience,negative,disgusting lag gaming experience,32,4,2025-10-12
+terrible financial situation now,negative,terrible financial situation now,32,4,2025-10-12
+phone features are okay yaar,neutral,phone features are okay yaar,28,5,2025-10-12
+pathetic weather ruined trip,negative,pathetic weather ruined trip,28,4,2025-10-12
+paisa vasool entertainment full masti,positive,paisa vasool entertainment full masti,37,5,2025-10-12
+story line was average type,neutral,story line was average type,27,5,2025-10-12
+excellent ambiance for dining,positive,excellent ambiance for dining,29,4,2025-10-12
+presentation was decent quality,neutral,presentation was decent quality,31,4,2025-10-12
+service was fine nothing special,neutral,service was fine nothing special,32,5,2025-10-12
+mind blowing climax sequence,positive,mind blowing climax sequence,28,4,2025-10-12
+pathetic boss behavior always,negative,pathetic boss behavior always,29,4,2025-10-12
+camera quality is okay,neutral,camera quality is okay,22,4,2025-10-12
+place visit was okay experience,neutral,place visit was okay experience,31,5,2025-10-12
+horrible music composition done,negative,horrible music composition done,31,4,2025-10-12
+ambiance was okay type,neutral,ambiance was okay type,22,4,2025-10-12
+really poor production values,negative,really poor production values,29,4,2025-10-12
+movie was totally booooring yaar,negative,movie was totally boring yaar,29,5,2025-10-12
+waiting time was okay,neutral,waiting time was okay,21,4,2025-10-12
+outstanding music and visual effects,positive,outstanding music and visual effects,36,5,2025-10-12
+place was really disappointing yaar,negative,place was really disappointing yaar,35,5,2025-10-12
+fantastic app store available,positive,fantastic app store available,29,4,2025-10-12
+really peaceful environment there,positive,really peaceful environment there,33,4,2025-10-12
+really disappointing story line,negative,really disappointing story line,31,4,2025-10-12
+really disappointing story line,negative,really disappointing story line,31,4,2025-10-12
+performances were average level,neutral,performances were average level,31,4,2025-10-12
+loved every single moment yaar,positive,loved every single moment yaar,30,5,2025-10-12
+perfect blend of comedy and drama,positive,perfect blend of comedy and drama,33,6,2025-10-12
+terrible costume and makeup,negative,terrible costume and makeup,27,4,2025-10-12
+performance is decent enough,neutral,performance is decent enough,28,4,2025-10-12
+awful chemistry lead pair,negative,awful chemistry lead pair,25,4,2025-10-12
+really poor production values,negative,really poor production values,29,4,2025-10-12
+movie was okay nothing special,neutral,movie was okay nothing special,30,5,2025-10-12
+awful work pressure daily,negative,awful work pressure daily,25,4,2025-10-12
+yaar this movie was totally awwwesome,positive,yaar this movie was totally awesome,35,6,2025-10-12
+disgusting overacting all around,negative,disgusting overacting all around,32,4,2025-10-12
+display clarity is decent,neutral,display clarity is decent,25,4,2025-10-12
+presentation was decent quality,neutral,presentation was decent quality,31,4,2025-10-12
+place is absolutely beautiful yaar,positive,place is absolutely beautiful yaar,34,5,2025-10-12
+performances were average level,neutral,performances were average level,31,4,2025-10-12
+horrible music composition done,negative,horrible music composition done,31,4,2025-10-12
+amazing learning opportunities available,positive,amazing learning opportunities available,40,4,2025-10-12
+action sequences were fine,neutral,action sequences were fine,26,4,2025-10-12
+pathetic climax sequence given,negative,pathetic climax sequence given,30,4,2025-10-12
+excellent progress career wise,positive,excellent progress career wise,30,4,2025-10-12
+ambiance was okay type,neutral,ambiance was okay type,22,4,2025-10-12
+acting was decent enough yaar,neutral,acting was decent enough yaar,29,5,2025-10-12
+wonderful support team members,positive,wonderful support team members,30,4,2025-10-12
+project deadline was manageable,neutral,project deadline was manageable,31,4,2025-10-12
+pathetic boss behavior always,negative,pathetic boss behavior always,29,4,2025-10-12
+disgusting kitchen conditions visible,negative,disgusting kitchen conditions visible,37,4,2025-10-12
+direction was fine not bad,neutral,direction was fine not bad,26,5,2025-10-12
+really fresh ingredients used,positive,really fresh ingredients used,29,4,2025-10-12
+performances were average level,neutral,performances were average level,31,4,2025-10-12
+excellent progress career wise,positive,excellent progress career wise,30,4,2025-10-12
+fantastic adventure activities available,positive,fantastic adventure activities available,40,4,2025-10-12
+terrible crowd management there,negative,terrible crowd management there,31,4,2025-10-12
+story line was average type,neutral,story line was average type,27,5,2025-10-12
+wonderful support team members,positive,wonderful support team members,30,4,2025-10-12
+service bahut ganda tha,negative,service bahut ganda tha,23,4,2025-10-12
+pathetic staff behavior throughout,negative,pathetic staff behavior throughout,34,4,2025-10-12
+really disappointed quality food,negative,really disappointed quality food,32,4,2025-10-12
+annoying local people behavior,negative,annoying local people behavior,30,4,2025-10-12
+battery life is fine,neutral,battery life is fine,20,4,2025-10-12
+amazing taste and presentation both,positive,amazing taste and presentation both,35,5,2025-10-12
+really smooth user interface,positive,really smooth user interface,28,4,2025-10-12
+waste of time and money,negative,waste of time and money,23,5,2025-10-12
+awful hygiene standards maintained,negative,awful hygiene standards maintained,34,4,2025-10-12
+terrible financial situation now,negative,terrible financial situation now,32,4,2025-10-12
+facilities provided were fine,neutral,facilities provided were fine,29,4,2025-10-12
+waiting time was okay,neutral,waiting time was okay,21,4,2025-10-12
+menu variety was decent,neutral,menu variety was decent,23,4,2025-10-12
+display clarity is decent,neutral,display clarity is decent,25,4,2025-10-12
+team performance was average,neutral,team performance was average,28,4,2025-10-12
+movie was okay nothing special,neutral,movie was okay nothing special,30,5,2025-10-12
+wonderful experience with friends,positive,wonderful experience with friends,33,4,2025-10-12
+direction was fine not bad,neutral,direction was fine not bad,26,5,2025-10-12
+weather conditions were decent,neutral,weather conditions were decent,30,4,2025-10-12
+awful hygiene standards maintained,negative,awful hygiene standards maintained,34,4,2025-10-12
+disgusting dirty surroundings everywhere,negative,disgusting dirty surroundings everywhere,40,4,2025-10-12
+paisa vasool entertainment full masti,positive,paisa vasool entertainment full masti,37,5,2025-10-12
+bad direction confused viewers,negative,bad direction confused viewers,30,4,2025-10-12
+great value for money definitely,positive,great value for money definitely,32,5,2025-10-12
+service was fine nothing special,neutral,service was fine nothing special,32,5,2025-10-12
+comedy scenes were okay okay,neutral,comedy scenes were okay okay,28,5,2025-10-12
+restaurant experience was okay yaar,neutral,restaurant experience was okay yaar,35,5,2025-10-12
+staff behavior was decent,neutral,staff behavior was decent,25,4,2025-10-12
+action sequences were fine,neutral,action sequences were fine,26,4,2025-10-12
+local people were okay,neutral,local people were okay,22,4,2025-10-12
+staff behavior was decent,neutral,staff behavior was decent,25,4,2025-10-12
+annoying app crashes frequently,negative,annoying app crashes frequently,31,4,2025-10-12
+hygiene standards were fine,neutral,hygiene standards were fine,27,4,2025-10-12
+lost job yaar very sad,negative,lost job yaar very sad,22,5,2025-10-12
+annoying background score throughout,negative,annoying background score throughout,36,4,2025-10-12
+meeting went okay discussed points,neutral,meeting went okay discussed points,34,5,2025-10-12
+phone features are okay yaar,neutral,phone features are okay yaar,28,5,2025-10-12
+wonderful experience in theater,positive,wonderful experience in theater,31,4,2025-10-12
+great value for money definitely,positive,great value for money definitely,32,5,2025-10-12
+team performance was average,neutral,team performance was average,28,4,2025-10-12
+direction was fine not bad,neutral,direction was fine not bad,26,5,2025-10-12
+local people were okay,neutral,local people were okay,22,4,2025-10-12
+awful hygiene standards maintained,negative,awful hygiene standards maintained,34,4,2025-10-12
+awful chemistry lead pair,negative,awful chemistry lead pair,25,4,2025-10-12
+bahut achha performance by all actors,positive,bahut achha performance by all actors,37,6,2025-10-12
+team performance was average,neutral,team performance was average,28,4,2025-10-12
+awful user interface design,negative,awful user interface design,27,4,2025-10-12
+pathetic comedy scenes tried,negative,pathetic comedy scenes tried,28,4,2025-10-12
+music was acceptable quality,neutral,music was acceptable quality,28,4,2025-10-12
+superb dialogue delivery by actors,positive,superb dialogue delivery by actors,34,5,2025-10-12
+annoying background score throughout,negative,annoying background score throughout,36,4,2025-10-12
+fantastic app store available,positive,fantastic app store available,29,4,2025-10-12
+restaurant experience was okay yaar,neutral,restaurant experience was okay yaar,35,5,2025-10-12
+wonderful support team members,positive,wonderful support team members,30,4,2025-10-12
+phone features are okay yaar,neutral,phone features are okay yaar,28,5,2025-10-12
+disgusting visual effects quality,negative,disgusting visual effects quality,33,4,2025-10-12
+really poor camera quality,negative,really poor camera quality,26,4,2025-10-12
+excellent screenplay and editing work,positive,excellent screenplay and editing work,37,5,2025-10-12
+restaurant ka khana was sooooo good,positive,restaurant ka khana was so good,31,6,2025-10-12
+menu variety was decent,neutral,menu variety was decent,23,4,2025-10-12
+annoying long waiting time,negative,annoying long waiting time,26,4,2025-10-12
+pathetic build quality materials,negative,pathetic build quality materials,32,4,2025-10-12
+pathetic staff behavior throughout,negative,pathetic staff behavior throughout,34,4,2025-10-12
+story line was average type,neutral,story line was average type,27,5,2025-10-12
+presentation was decent quality,neutral,presentation was decent quality,31,4,2025-10-12
+awful work pressure daily,negative,awful work pressure daily,25,4,2025-10-12
+superb quality maintained always,positive,superb quality maintained always,32,4,2025-10-12
+weather conditions were decent,neutral,weather conditions were decent,30,4,2025-10-12
+disgusting lag gaming experience,negative,disgusting lag gaming experience,32,4,2025-10-12
+acting was decent enough yaar,neutral,acting was decent enough yaar,29,5,2025-10-12
+fantastic adventure activities available,positive,fantastic adventure activities available,40,4,2025-10-12
+brilliant direction must watch hai,positive,brilliant direction must watch hai,34,5,2025-10-12
+restaurant experience was okay yaar,neutral,restaurant experience was okay yaar,35,5,2025-10-12
+display clarity is decent,neutral,display clarity is decent,25,4,2025-10-12
+really smooth user interface,positive,really smooth user interface,28,4,2025-10-12
+comedy scenes were okay okay,neutral,comedy scenes were okay okay,28,5,2025-10-12
+menu variety was decent,neutral,menu variety was decent,23,4,2025-10-12
+got promotion yaar dreams true,positive,got promotion yaar dreams true,30,5,2025-10-12
+mind blowing climax sequence,positive,mind blowing climax sequence,28,4,2025-10-12
+excellent screenplay and editing work,positive,excellent screenplay and editing work,37,5,2025-10-12
+awful user interface design,negative,awful user interface design,27,4,2025-10-12
+wonderful gaming experience provided,positive,wonderful gaming experience provided,36,4,2025-10-12
+disgusting dirty surroundings everywhere,negative,disgusting dirty surroundings everywhere,40,4,2025-10-12
+fantastic app store available,positive,fantastic app store available,29,4,2025-10-12
+annoying long waiting time,negative,annoying long waiting time,26,4,2025-10-12
+loved every single moment yaar,positive,loved every single moment yaar,30,5,2025-10-12
+wonderful experience in theater,positive,wonderful experience in theater,31,4,2025-10-12
+wonderful gaming experience provided,positive,wonderful gaming experience provided,36,4,2025-10-12
+totally satisfied with meal,positive,totally satisfied with meal,27,4,2025-10-12
+restaurant ka khana was sooooo good,positive,restaurant ka khana was so good,31,6,2025-10-12
+wonderful weather throughout visit,positive,wonderful weather throughout visit,34,4,2025-10-12
+annoying app crashes frequently,negative,annoying app crashes frequently,31,4,2025-10-12
+screenplay was okay written,neutral,screenplay was okay written,27,4,2025-10-12
+music was acceptable quality,neutral,music was acceptable quality,28,4,2025-10-12
+service bahut ganda tha,negative,service bahut ganda tha,23,4,2025-10-12
+ambiance was okay type,neutral,ambiance was okay type,22,4,2025-10-12
+really happy with result,positive,really happy with result,24,4,2025-10-12
+bahut achha performance by all actors,positive,bahut achha performance by all actors,37,6,2025-10-12
+awful facilities provided tourists,negative,awful facilities provided tourists,34,4,2025-10-12
+service was fine nothing special,neutral,service was fine nothing special,32,5,2025-10-12
+bakwas acting throughout film,negative,bakwas acting throughout film,29,4,2025-10-12
+battery life is fine,neutral,battery life is fine,20,4,2025-10-12
+totally satisfied with meal,positive,totally satisfied with meal,27,4,2025-10-12
+weather conditions were decent,neutral,weather conditions were decent,30,4,2025-10-12
+work day was normal nothing special,neutral,work day was normal nothing special,35,6,2025-10-12
+excellent facilities provided tourists,positive,excellent facilities provided tourists,38,4,2025-10-12
+build quality is fine,neutral,build quality is fine,21,4,2025-10-12
+facilities provided were fine,neutral,facilities provided were fine,29,4,2025-10-12
+pathetic comedy scenes tried,negative,pathetic comedy scenes tried,28,4,2025-10-12
+disgusting dirty surroundings everywhere,negative,disgusting dirty surroundings everywhere,40,4,2025-10-12
+really poor camera quality,negative,really poor camera quality,26,4,2025-10-12
+disgusting visual effects quality,negative,disgusting visual effects quality,33,4,2025-10-12
+awful work pressure daily,negative,awful work pressure daily,25,4,2025-10-12
+terrible direction and screenplay,negative,terrible direction and screenplay,33,4,2025-10-12
+annoying background score throughout,negative,annoying background score throughout,36,4,2025-10-12
+best movie ever dekhi hai life mein,positive,best movie ever dekhi hai life mein,35,7,2025-10-12
+pathetic comedy scenes tried,negative,pathetic comedy scenes tried,28,4,2025-10-12
+project deadline was manageable,neutral,project deadline was manageable,31,4,2025-10-12
+story line was average type,neutral,story line was average type,27,5,2025-10-12
+work day was normal nothing special,neutral,work day was normal nothing special,35,6,2025-10-12
+yaar this movie was totally awwwesome,positive,yaar this movie was totally awesome,35,6,2025-10-12
+annoying long waiting time,negative,annoying long waiting time,26,4,2025-10-12
+ambiance was okay type,neutral,ambiance was okay type,22,4,2025-10-12
+waiting time was okay,neutral,waiting time was okay,21,4,2025-10-12
+drama portions were decent,neutral,drama portions were decent,26,4,2025-10-12
+terrible costume and makeup,negative,terrible costume and makeup,27,4,2025-10-12
+annoying dialogues delivery style,negative,annoying dialogues delivery style,33,4,2025-10-12
+service bahut achhi thi yaar,positive,service bahut achhi thi yaar,28,5,2025-10-12
+amazing learning opportunities available,positive,amazing learning opportunities available,40,4,2025-10-12
+disgusting dirty surroundings everywhere,negative,disgusting dirty surroundings everywhere,40,4,2025-10-12
+pathetic climax sequence given,negative,pathetic climax sequence given,30,4,2025-10-12
+perfect blend of comedy and drama,positive,perfect blend of comedy and drama,33,6,2025-10-12
+drama portions were decent,neutral,drama portions were decent,26,4,2025-10-12
+project deadline was manageable,neutral,project deadline was manageable,31,4,2025-10-12
+wonderful support team members,positive,wonderful support team members,30,4,2025-10-12
+amazing battery life throughout day,positive,amazing battery life throughout day,35,5,2025-10-12
+movie was totally booooring yaar,negative,movie was totally boring yaar,29,5,2025-10-12
+excellent build quality materials,positive,excellent build quality materials,33,4,2025-10-12
+superb quality maintained always,positive,superb quality maintained always,32,4,2025-10-12
+transportation was decent available,neutral,transportation was decent available,35,4,2025-10-12
+phone performance is bakwas yaar,negative,phone performance is bakwas yaar,32,5,2025-10-12
+performance is decent enough,neutral,performance is decent enough,28,4,2025-10-12
+bad value money definitely,negative,bad value money definitely,26,4,2025-10-12
+place was really disappointing yaar,negative,place was really disappointing yaar,35,5,2025-10-12
+phone features are okay yaar,neutral,phone features are okay yaar,28,5,2025-10-12
+pathetic weather ruined trip,negative,pathetic weather ruined trip,28,4,2025-10-12
+transportation was decent available,neutral,transportation was decent available,35,4,2025-10-12
+place is absolutely beautiful yaar,positive,place is absolutely beautiful yaar,34,5,2025-10-12
+wonderful experience in theater,positive,wonderful experience in theater,31,4,2025-10-12
+acting was decent enough yaar,neutral,acting was decent enough yaar,29,5,2025-10-12
+totally satisfied with meal,positive,totally satisfied with meal,27,4,2025-10-12
+phone features are okay yaar,neutral,phone features are okay yaar,28,5,2025-10-12
+hygiene standards were fine,neutral,hygiene standards were fine,27,4,2025-10-12
+superb dialogue delivery by actors,positive,superb dialogue delivery by actors,34,5,2025-10-12
+superb dialogue delivery by actors,positive,superb dialogue delivery by actors,34,5,2025-10-12
+ekdum mast comedy scenes throughout,positive,ekdum mast comedy scenes throughout,35,5,2025-10-12
+amazing natural scenery everywhere,positive,amazing natural scenery everywhere,34,4,2025-10-12
+display clarity is decent,neutral,display clarity is decent,25,4,2025-10-12
+really disappointed quality food,negative,really disappointed quality food,32,4,2025-10-12
+superb display clarity always,positive,superb display clarity always,29,4,2025-10-12
+disgusting overacting all around,negative,disgusting overacting all around,32,4,2025-10-12
+amazingggg cinematography and direction,positive,amazing cinematography and direction,36,4,2025-10-12
+frustrating display clarity poor,negative,frustrating display clarity poor,32,4,2025-10-12
+really stressed about future,negative,really stressed about future,28,4,2025-10-12
+bakwas acting throughout film,negative,bakwas acting throughout film,29,4,2025-10-12
+facilities provided were fine,neutral,facilities provided were fine,29,4,2025-10-12
+battery life is fine,neutral,battery life is fine,20,4,2025-10-12
+project deadline was manageable,neutral,project deadline was manageable,31,4,2025-10-12
+bad direction confused viewers,negative,bad direction confused viewers,30,4,2025-10-12
+bakwas acting throughout film,negative,bakwas acting throughout film,29,4,2025-10-12
+perfect blend of comedy and drama,positive,perfect blend of comedy and drama,33,6,2025-10-12
+acting was decent enough yaar,neutral,acting was decent enough yaar,29,5,2025-10-12
+drama portions were decent,neutral,drama portions were decent,26,4,2025-10-12
+fantastic storyline and superb acting,positive,fantastic storyline and superb acting,37,5,2025-10-12
+terrible crowd management there,negative,terrible crowd management there,31,4,2025-10-12
+bahut achha performance by all actors,positive,bahut achha performance by all actors,37,6,2025-10-12
+local people were okay,neutral,local people were okay,22,4,2025-10-12
+phone performance is awwwesome yaar,positive,phone performance is awesome yaar,33,5,2025-10-12
+awful performances all actors,negative,awful performances all actors,29,4,2025-10-12
+excellent build quality materials,positive,excellent build quality materials,33,4,2025-10-12
+direction was fine not bad,neutral,direction was fine not bad,26,5,2025-10-12
+local people were okay,neutral,local people were okay,22,4,2025-10-12
+performance is decent enough,neutral,performance is decent enough,28,4,2025-10-12
+disgusting overacting all around,negative,disgusting overacting all around,32,4,2025-10-12
+excellent facilities provided tourists,positive,excellent facilities provided tourists,38,4,2025-10-12
+terrible crowd management there,negative,terrible crowd management there,31,4,2025-10-12
+really stressed about future,negative,really stressed about future,28,4,2025-10-12
+pathetic weather ruined trip,negative,pathetic weather ruined trip,28,4,2025-10-12
+really enjoyed the emotional scenes,positive,really enjoyed the emotional scenes,35,5,2025-10-12
+pathetic climax sequence given,negative,pathetic climax sequence given,30,4,2025-10-12
+frustrating display clarity poor,negative,frustrating display clarity poor,32,4,2025-10-12
+awful hygiene standards maintained,negative,awful hygiene standards maintained,34,4,2025-10-12
+totally worth the money spent,positive,totally worth the money spent,29,5,2025-10-12
+food options were fine,neutral,food options were fine,22,4,2025-10-12
+staff behavior was decent,neutral,staff behavior was decent,25,4,2025-10-12
+battery life is fine,neutral,battery life is fine,20,4,2025-10-12
+presentation was decent quality,neutral,presentation was decent quality,31,4,2025-10-12
+annoying local people behavior,negative,annoying local people behavior,30,4,2025-10-12
+facilities provided were fine,neutral,facilities provided were fine,29,4,2025-10-12
+display clarity is decent,neutral,display clarity is decent,25,4,2025-10-12
+really peaceful environment there,positive,really peaceful environment there,33,4,2025-10-12
+comedy scenes were okay okay,neutral,comedy scenes were okay okay,28,5,2025-10-12
+comedy scenes were okay okay,neutral,comedy scenes were okay okay,28,5,2025-10-12
+outstanding music and visual effects,positive,outstanding music and visual effects,36,5,2025-10-12
+music was acceptable quality,neutral,music was acceptable quality,28,4,2025-10-12
+battery life is fine,neutral,battery life is fine,20,4,2025-10-12
+waste of time and money,negative,waste of time and money,23,5,2025-10-12
+service bahut achhi thi yaar,positive,service bahut achhi thi yaar,28,5,2025-10-12
+terrible costume and makeup,negative,terrible costume and makeup,27,4,2025-10-12
+place visit was okay experience,neutral,place visit was okay experience,31,5,2025-10-12
+goooood acting by hero and heroine,positive,good acting by hero and heroine,31,6,2025-10-12
+annoying long waiting time,negative,annoying long waiting time,26,4,2025-10-12
+excellent facilities provided tourists,positive,excellent facilities provided tourists,38,4,2025-10-12
+disgusting lag gaming experience,negative,disgusting lag gaming experience,32,4,2025-10-12
+ambiance was okay type,neutral,ambiance was okay type,22,4,2025-10-12
+camera quality is okay,neutral,camera quality is okay,22,4,2025-10-12
+annoying local people behavior,negative,annoying local people behavior,30,4,2025-10-12
+disgusting visual effects quality,negative,disgusting visual effects quality,33,4,2025-10-12
+phone performance is awwwesome yaar,positive,phone performance is awesome yaar,33,5,2025-10-12
+fantastic work environment here,positive,fantastic work environment here,31,4,2025-10-12
+really bad taste everything,negative,really bad taste everything,27,4,2025-10-12
+superb display clarity always,positive,superb display clarity always,29,4,2025-10-12
+build quality is fine,neutral,build quality is fine,21,4,2025-10-12
+phone performance is bakwas yaar,negative,phone performance is bakwas yaar,32,5,2025-10-12
+awful chemistry lead pair,negative,awful chemistry lead pair,25,4,2025-10-12
+meeting went okay discussed points,neutral,meeting went okay discussed points,34,5,2025-10-12
+service bahut achhi thi yaar,positive,service bahut achhi thi yaar,28,5,2025-10-12
+restaurant ka khana was sooooo good,positive,restaurant ka khana was so good,31,6,2025-10-12
+service bahut achhi thi yaar,positive,service bahut achhi thi yaar,28,5,2025-10-12
+ekdum mast comedy scenes throughout,positive,ekdum mast comedy scenes throughout,35,5,2025-10-12
+restaurant food was terrrible yaar,negative,restaurant food was terrible yaar,33,5,2025-10-12
+movie was okay nothing special,neutral,movie was okay nothing special,30,5,2025-10-12
+amazingggg cinematography and direction,positive,amazing cinematography and direction,36,4,2025-10-12

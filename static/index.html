@@ -1,0 +1,35 @@
+<script>
+async function analyzeSentiment() {
+  const text = document.getElementById('textInput').value.trim();
+  if (!text) {
+    document.getElementById('result').innerHTML = '<p>Please enter some text.</p>';
+    return;
+  }
+
+  try {
+    const response = await fetch('/predict', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ text })
+    });
+    const result = await response.json();
+
+    document.getElementById('result').innerHTML = `
+      <div class="result">
+        <h3>Result:</h3>
+        <p><strong>Original:</strong> "${text}"</p>
+        <p><strong>Normalized:</strong> ${result.cleaned}</p>
+        <p><strong>Predicted Sentiment:</strong>
+          <span class="${result.sentiment.toLowerCase()}">${result.sentiment}</span>
+        </p>
+      </div>`;
+  } catch (err) {
+    console.error(err);
+    document.getElementById('result').innerHTML = '<p style="color:red;">Error connecting to backend. Please check app.py is running.</p>';
+  }
+}
+
+function setExample(text) {
+  document.getElementById('textInput').value = text;
+}
+</script>

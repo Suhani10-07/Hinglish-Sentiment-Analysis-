@@ -1,0 +1,601 @@
+text,sentiment,normalized_text,cleaned_text
+Thik thak experience amazing,positive,thik thak experience amazing,thik thak experience amazing
+Delivery fast aur packing good worst,negative,delivery fast aur packing good worst,delivery fast aur packing good worst
+Delivery fast aur packing good ok ok,neutral,delivery fast aur packing good ok ok,delivery fast aur packing good ok ok
+"Ladai ho gayi, bura lag raha hai mast",positive,ladai ho gayi bura lag raha hai mast,"ladai ho gayi, bura lag raha hai mast"
+"Ladai ho gayi, bura lag raha hai flop",negative,ladai ho gayi bura lag raha hai flop,"ladai ho gayi, bura lag raha hai flop"
+Dinner awesome tha! ok ok,neutral,dinner awesome tha ok ok,dinner awesome tha! ok ok
+Class average thi superb,positive,class average thi superb,class average thi superb
+Class average thi boring,negative,class average thi boring,class average thi boring
+Class average thi normal,neutral,class average thi normal,class average thi normal
+Product damaged aaya! zabardast,positive,product damaged aaya zabardast,product damaged aaya! zabardast
+Delivery fast aur packing good bakwas,negative,delivery fast aur packing good bakwas,delivery fast aur packing good bakwas
+Product damaged aaya! thik thak,neutral,product damaged aaya thik thak,product damaged aaya! thik thak
+"App crash ho gaya, bakwas! mast",positive,app crash ho gaya bakwas mast,"app crash ho gaya, bakwas! mast"
+"App crash ho gaya, bakwas! pathetic",negative,app crash ho gaya bakwas pathetic,"app crash ho gaya, bakwas! pathetic"
+Ok ok features hai decent,neutral,ok ok features hai decent,ok ok features hai decent
+Khana sooooo gud tha! amazing,positive,khana soo good tha amazing,khana soo good tha! amazing
+Khana sooooo gud tha! bad,negative,khana soo good tha bad,khana soo good tha! bad
+Taste boooring aur bland tha thik thak,neutral,taste boring aur bland tha thik thak,taste boring aur bland tha thik thak
+"Decent trip, view mast tha zabardast",positive,decent trip view mast tha zabardast,"decent trip, view mast tha zabardast"
+Crowded aur dirty location worst,negative,crowded aur dirty location worst,crowded aur dirty location worst
+"Decent trip, view mast tha ok ok",neutral,decent trip view mast tha ok ok,"decent trip, view mast tha ok ok"
+Promotion mil gaya yaar! great,positive,promotion mil gaya yaar great,promotion mil gaya yaar! great
+Promotion mil gaya yaar! waste,negative,promotion mil gaya yaar waste,promotion mil gaya yaar! waste
+Promotion mil gaya yaar! thik thak,neutral,promotion mil gaya yaar thik thak,promotion mil gaya yaar! thik thak
+Exam mast gaya! fantastic,positive,exam mast gaya fantastic,exam mast gaya! fantastic
+Class average thi boring,negative,class average thi boring,class average thi boring
+Paper tough tha yaar decent,neutral,paper tough tha yaar decent,paper tough tha yaar decent
+"Profit mila, feeling goooood! amazing",positive,profit mila feeling good amazing,"profit mila, feeling good! amazing"
+"Loss hua, bad day bad",negative,loss hua bad day bad,"loss hua, bad day bad"
+"Profit mila, feeling goooood! normal",neutral,profit mila feeling good normal,"profit mila, feeling good! normal"
+"Ladai ho gayi, bura lag raha hai mast",positive,ladai ho gayi bura lag raha hai mast,"ladai ho gayi, bura lag raha hai mast"
+Dinner awesome tha! flop,negative,dinner awesome tha flop,dinner awesome tha! flop
+"Ladai ho gayi, bura lag raha hai ok ok",neutral,ladai ho gayi bura lag raha hai ok ok,"ladai ho gayi, bura lag raha hai ok ok"
+Normal day with family mast,positive,normal day with family mast,normal day with family mast
+Dinner awesome tha! pathetic,negative,dinner awesome tha pathetic,dinner awesome tha! pathetic
+Normal day with family ok ok,neutral,normal day with family ok ok,normal day with family ok ok
+Thoda thik lag raha hai aaj amazing,positive,thoda thik lag raha hai aaj amazing,thoda thik lag raha hai aaj amazing
+Thoda thik lag raha hai aaj pathetic,negative,thoda thik lag raha hai aaj pathetic,thoda thik lag raha hai aaj pathetic
+Thoda thik lag raha hai aaj average,neutral,thoda thik lag raha hai aaj average,thoda thik lag raha hai aaj average
+Delivery fast aur packing good great,positive,delivery fast aur packing good great,delivery fast aur packing good great
+Delivery fast aur packing good bakwas,negative,delivery fast aur packing good bakwas,delivery fast aur packing good bakwas
+Delivery fast aur packing good decent,neutral,delivery fast aur packing good decent,delivery fast aur packing good decent
+Ye phone amazingggg hai! awesome,positive,ye phone amazingg hai awesome,ye phone amazing hai! awesome
+"Product thik thak, price ke hisaab se bakwas",negative,product thik thak price ke hisaab se bakwas,"product thik thak, price ke hisaab se bakwas"
+"Product thik thak, price ke hisaab se normal",neutral,product thik thak price ke hisaab se normal,"product thik thak, price ke hisaab se normal"
+Thik thak experience amazing,positive,thik thak experience amazing,thik thak experience amazing
+Product damaged aaya! worst,negative,product damaged aaya worst,product damaged aaya! worst
+Delivery fast aur packing good normal,neutral,delivery fast aur packing good normal,delivery fast aur packing good normal
+Show normal tha awesome,positive,show normal tha awesome,show normal tha awesome
+Show normal tha bad,negative,show normal tha bad,show normal tha bad
+Show normal tha normal,neutral,show normal tha normal,show normal tha normal
+Product damaged aaya! great,positive,product damaged aaya great,product damaged aaya! great
+Delivery fast aur packing good bad,negative,delivery fast aur packing good bad,delivery fast aur packing good bad
+Product damaged aaya! ok ok,neutral,product damaged aaya ok ok,product damaged aaya! ok ok
+Concert amazinggg tha! great,positive,concert amazingg tha great,concert amazing tha! great
+Show normal tha boring,negative,show normal tha boring,show normal tha boring
+Show normal tha ok ok,neutral,show normal tha ok ok,show normal tha ok ok
+Promotion mil gaya yaar! awesome,positive,promotion mil gaya yaar awesome,promotion mil gaya yaar! awesome
+Workload bohot zyada hai worst,negative,workload bohot zyada hai worst,workload bohot zyada hai worst
+Promotion mil gaya yaar! thik thak,neutral,promotion mil gaya yaar thik thak,promotion mil gaya yaar! thik thak
+"Bakwaas product, waste of money awesome",positive,bakwas product waste of money awesome,"bakwas product, waste of money awesome"
+"Product thik thak, price ke hisaab se waste",negative,product thik thak price ke hisaab se waste,"product thik thak, price ke hisaab se waste"
+"Product thik thak, price ke hisaab se average",neutral,product thik thak price ke hisaab se average,"product thik thak, price ke hisaab se average"
+"Product thik thak, price ke hisaab se amazing",positive,product thik thak price ke hisaab se amazing,"product thik thak, price ke hisaab se amazing"
+Ye phone amazingggg hai! bad,negative,ye phone amazingg hai bad,ye phone amazing hai! bad
+Ye phone amazingggg hai! normal,neutral,ye phone amazingg hai normal,ye phone amazing hai! normal
+Normal day with family awesome,positive,normal day with family awesome,normal day with family awesome
+"Ladai ho gayi, bura lag raha hai bad",negative,ladai ho gayi bura lag raha hai bad,"ladai ho gayi, bura lag raha hai bad"
+Dinner awesome tha! ok ok,neutral,dinner awesome tha ok ok,dinner awesome tha! ok ok
+Crowded aur dirty location awesome,positive,crowded aur dirty location awesome,crowded aur dirty location awesome
+"Decent trip, view mast tha waste",negative,decent trip view mast tha waste,"decent trip, view mast tha waste"
+"Decent trip, view mast tha thik thak",neutral,decent trip view mast tha thik thak,"decent trip, view mast tha thik thak"
+"Ladai ho gayi, bura lag raha hai fantastic",positive,ladai ho gayi bura lag raha hai fantastic,"ladai ho gayi, bura lag raha hai fantastic"
+"Ladai ho gayi, bura lag raha hai flop",negative,ladai ho gayi bura lag raha hai flop,"ladai ho gayi, bura lag raha hai flop"
+Dinner awesome tha! decent,neutral,dinner awesome tha decent,dinner awesome tha! decent
+Show normal tha superb,positive,show normal tha superb,show normal tha superb
+Event boring tha yaar waste,negative,event boring tha yaar waste,event boring tha yaar waste
+Show normal tha thik thak,neutral,show normal tha thik thak,show normal tha thik thak
+Bahut booooring tha yeh film fantastic,positive,bahut boring tha yeh film fantastic,bahut boring tha yeh film fantastic
+Yaar this movie was awwwesooome! bad,negative,yaar this movie was awesome bad,yaar this movie was a bad
+Yaar this movie was awwwesooome! ok ok,neutral,yaar this movie was awesome ok ok,yaar this movie was a ok ok
+"Profit mila, feeling goooood! mast",positive,profit mila feeling good mast,"profit mila, feeling good! mast"
+Market neutral lag raha hai waste,negative,market neutral lag raha hai waste,market neutral lag raha hai waste
+"Profit mila, feeling goooood! thik thak",neutral,profit mila feeling good thik thak,"profit mila, feeling good! thik thak"
+"App crash ho gaya, bakwas! zabardast",positive,app crash ho gaya bakwas zabardast,"app crash ho gaya, bakwas! zabardast"
+"App crash ho gaya, bakwas! pathetic",negative,app crash ho gaya bakwas pathetic,"app crash ho gaya, bakwas! pathetic"
+Ok ok features hai ok ok,neutral,ok ok features hai ok ok,ok ok features hai ok ok
+Doctor ne acha treatment diya mast,positive,doctor ne good treatment diya mast,doctor ne acha treatment diya mast
+Doctor ne acha treatment diya bakwas,negative,doctor ne good treatment diya bakwas,doctor ne acha treatment diya bakwas
+Sick feel kar rahi hu average,neutral,sick feel kar rahi hu average,sick feel kar rahi hu average
+"Loss hua, bad day mast",positive,loss hua bad day mast,"loss hua, bad day mast"
+"Profit mila, feeling goooood! pathetic",negative,profit mila feeling good pathetic,"profit mila, feeling good! pathetic"
+"Profit mila, feeling goooood! normal",neutral,profit mila feeling good normal,"profit mila, feeling good! normal"
+"Loss hua, bad day great",positive,loss hua bad day great,"loss hua, bad day great"
+"Profit mila, feeling goooood! bad",negative,profit mila feeling good bad,"profit mila, feeling good! bad"
+Market neutral lag raha hai thik thak,neutral,market neutral lag raha hai thik thak,market neutral lag raha hai thik thak
+Normal day with family great,positive,normal day with family great,normal day with family great
+Dinner awesome tha! bad,negative,dinner awesome tha bad,dinner awesome tha! bad
+"Ladai ho gayi, bura lag raha hai average",neutral,ladai ho gayi bura lag raha hai average,"ladai ho gayi, bura lag raha hai average"
+Concert amazinggg tha! superb,positive,concert amazingg tha superb,concert amazing tha! superb
+Event boring tha yaar boring,negative,event boring tha yaar boring,event boring tha yaar boring
+Concert amazinggg tha! decent,neutral,concert amazingg tha decent,concert amazing tha! decent
+Yaar this movie was awwwesooome! zabardast,positive,yaar this movie was awesome zabardast,yaar this movie was a zabardast
+Bahut booooring tha yeh film pathetic,negative,bahut boring tha yeh film pathetic,bahut boring tha yeh film pathetic
+"Movie thik thak thi, nothing special decent",neutral,movie thik thak thi nothing special decent,"movie thik thak thi, nothing special decent"
+Class average thi fantastic,positive,class average thi fantastic,class average thi fantastic
+Class average thi waste,negative,class average thi waste,class average thi waste
+Paper tough tha yaar thik thak,neutral,paper tough tha yaar thik thak,paper tough tha yaar thik thak
+Office day normal tha superb,positive,office day normal tha superb,office day normal tha superb
+Promotion mil gaya yaar! worst,negative,promotion mil gaya yaar worst,promotion mil gaya yaar! worst
+Office day normal tha normal,neutral,office day normal tha normal,office day normal tha normal
+"App crash ho gaya, bakwas! amazing",positive,app crash ho gaya bakwas amazing,"app crash ho gaya, bakwas! amazing"
+App superb chal raha hai pathetic,negative,app superb chal raha hai pathetic,app superb chal raha hai pathetic
+Ok ok features hai normal,neutral,ok ok features hai normal,ok ok features hai normal
+Workload bohot zyada hai awesome,positive,workload bohot zyada hai awesome,workload bohot zyada hai awesome
+Office day normal tha pathetic,negative,office day normal tha pathetic,office day normal tha pathetic
+Promotion mil gaya yaar! normal,neutral,promotion mil gaya yaar normal,promotion mil gaya yaar! normal
+Khana sooooo gud tha! superb,positive,khana soo good tha superb,khana soo good tha! superb
+Taste boooring aur bland tha waste,negative,taste boring aur bland tha waste,taste boring aur bland tha waste
+Khana sooooo gud tha! thik thak,neutral,khana soo good tha thik thak,khana soo good tha! thik thak
+"Product thik thak, price ke hisaab se fantastic",positive,product thik thak price ke hisaab se fantastic,"product thik thak, price ke hisaab se fantastic"
+Ye phone amazingggg hai! waste,negative,ye phone amazingg hai waste,ye phone amazing hai! waste
+"Product thik thak, price ke hisaab se ok ok",neutral,product thik thak price ke hisaab se ok ok,"product thik thak, price ke hisaab se ok ok"
+Product damaged aaya! awesome,positive,product damaged aaya awesome,product damaged aaya! awesome
+Product damaged aaya! boring,negative,product damaged aaya boring,product damaged aaya! boring
+Delivery fast aur packing good normal,neutral,delivery fast aur packing good normal,delivery fast aur packing good normal
+"App crash ho gaya, bakwas! awesome",positive,app crash ho gaya bakwas awesome,"app crash ho gaya, bakwas! awesome"
+Ok ok features hai boring,negative,ok ok features hai boring,ok ok features hai boring
+Ok ok features hai normal,neutral,ok ok features hai normal,ok ok features hai normal
+Product damaged aaya! great,positive,product damaged aaya great,product damaged aaya! great
+Product damaged aaya! bakwas,negative,product damaged aaya bakwas,product damaged aaya! bakwas
+Thik thak experience average,neutral,thik thak experience average,thik thak experience average
+"Ladai ho gayi, bura lag raha hai great",positive,ladai ho gayi bura lag raha hai great,"ladai ho gayi, bura lag raha hai great"
+Dinner awesome tha! waste,negative,dinner awesome tha waste,dinner awesome tha! waste
+Dinner awesome tha! normal,neutral,dinner awesome tha normal,dinner awesome tha! normal
+Delivery fast aur packing good superb,positive,delivery fast aur packing good superb,delivery fast aur packing good superb
+Thik thak experience pathetic,negative,thik thak experience pathetic,thik thak experience pathetic
+Delivery fast aur packing good average,neutral,delivery fast aur packing good average,delivery fast aur packing good average
+"Ladai ho gayi, bura lag raha hai fantastic",positive,ladai ho gayi bura lag raha hai fantastic,"ladai ho gayi, bura lag raha hai fantastic"
+Normal day with family bakwas,negative,normal day with family bakwas,normal day with family bakwas
+Normal day with family thik thak,neutral,normal day with family thik thak,normal day with family thik thak
+Thik thak experience amazing,positive,thik thak experience amazing,thik thak experience amazing
+Thik thak experience boring,negative,thik thak experience boring,thik thak experience boring
+Product damaged aaya! decent,neutral,product damaged aaya decent,product damaged aaya! decent
+Office day normal tha fantastic,positive,office day normal tha fantastic,office day normal tha fantastic
+Promotion mil gaya yaar! waste,negative,promotion mil gaya yaar waste,promotion mil gaya yaar! waste
+Promotion mil gaya yaar! decent,neutral,promotion mil gaya yaar decent,promotion mil gaya yaar! decent
+Taste boooring aur bland tha amazing,positive,taste boring aur bland tha amazing,taste boring aur bland tha amazing
+Khana sooooo gud tha! boring,negative,khana soo good tha boring,khana soo good tha! boring
+Taste boooring aur bland tha thik thak,neutral,taste boring aur bland tha thik thak,taste boring aur bland tha thik thak
+Ok ok features hai great,positive,ok ok features hai great,ok ok features hai great
+Ok ok features hai flop,negative,ok ok features hai flop,ok ok features hai flop
+Ok ok features hai decent,neutral,ok ok features hai decent,ok ok features hai decent
+Yaar this movie was awwwesooome! great,positive,yaar this movie was awesome great,yaar this movie was a great
+Bahut booooring tha yeh film waste,negative,bahut boring tha yeh film waste,bahut boring tha yeh film waste
+Bahut booooring tha yeh film thik thak,neutral,bahut boring tha yeh film thik thak,bahut boring tha yeh film thik thak
+Paper tough tha yaar great,positive,paper tough tha yaar great,paper tough tha yaar great
+Exam mast gaya! bad,negative,exam mast gaya bad,exam mast gaya! bad
+Paper tough tha yaar decent,neutral,paper tough tha yaar decent,paper tough tha yaar decent
+Class average thi amazing,positive,class average thi amazing,class average thi amazing
+Exam mast gaya! waste,negative,exam mast gaya waste,exam mast gaya! waste
+Class average thi normal,neutral,class average thi normal,class average thi normal
+Market neutral lag raha hai great,positive,market neutral lag raha hai great,market neutral lag raha hai great
+Market neutral lag raha hai flop,negative,market neutral lag raha hai flop,market neutral lag raha hai flop
+"Loss hua, bad day normal",neutral,loss hua bad day normal,"loss hua, bad day normal"
+Khana sooooo gud tha! awesome,positive,khana soo good tha awesome,khana soo good tha! awesome
+Taste boooring aur bland tha pathetic,negative,taste boring aur bland tha pathetic,taste boring aur bland tha pathetic
+Khana sooooo gud tha! thik thak,neutral,khana soo good tha thik thak,khana soo good tha! thik thak
+"Loss hua, bad day amazing",positive,loss hua bad day amazing,"loss hua, bad day amazing"
+"Profit mila, feeling goooood! waste",negative,profit mila feeling good waste,"profit mila, feeling good! waste"
+Market neutral lag raha hai decent,neutral,market neutral lag raha hai decent,market neutral lag raha hai decent
+"App crash ho gaya, bakwas! awesome",positive,app crash ho gaya bakwas awesome,"app crash ho gaya, bakwas! awesome"
+"App crash ho gaya, bakwas! worst",negative,app crash ho gaya bakwas worst,"app crash ho gaya, bakwas! worst"
+App superb chal raha hai ok ok,neutral,app superb chal raha hai ok ok,app superb chal raha hai ok ok
+Office day normal tha superb,positive,office day normal tha superb,office day normal tha superb
+Office day normal tha bad,negative,office day normal tha bad,office day normal tha bad
+Promotion mil gaya yaar! decent,neutral,promotion mil gaya yaar decent,promotion mil gaya yaar! decent
+Normal day with family mast,positive,normal day with family mast,normal day with family mast
+Normal day with family bad,negative,normal day with family bad,normal day with family bad
+Normal day with family normal,neutral,normal day with family normal,normal day with family normal
+Ye phone amazingggg hai! superb,positive,ye phone amazingg hai superb,ye phone amazing hai! superb
+"Product thik thak, price ke hisaab se flop",negative,product thik thak price ke hisaab se flop,"product thik thak, price ke hisaab se flop"
+Ye phone amazingggg hai! average,neutral,ye phone amazingg hai average,ye phone amazing hai! average
+"Profit mila, feeling goooood! great",positive,profit mila feeling good great,"profit mila, feeling good! great"
+Market neutral lag raha hai flop,negative,market neutral lag raha hai flop,market neutral lag raha hai flop
+"Loss hua, bad day ok ok",neutral,loss hua bad day ok ok,"loss hua, bad day ok ok"
+Ok ok features hai great,positive,ok ok features hai great,ok ok features hai great
+App superb chal raha hai boring,negative,app superb chal raha hai boring,app superb chal raha hai boring
+Ok ok features hai decent,neutral,ok ok features hai decent,ok ok features hai decent
+"Profit mila, feeling goooood! awesome",positive,profit mila feeling good awesome,"profit mila, feeling good! awesome"
+Market neutral lag raha hai pathetic,negative,market neutral lag raha hai pathetic,market neutral lag raha hai pathetic
+"Loss hua, bad day average",neutral,loss hua bad day average,"loss hua, bad day average"
+Workload bohot zyada hai amazing,positive,workload bohot zyada hai amazing,workload bohot zyada hai amazing
+Promotion mil gaya yaar! flop,negative,promotion mil gaya yaar flop,promotion mil gaya yaar! flop
+Workload bohot zyada hai ok ok,neutral,workload bohot zyada hai ok ok,workload bohot zyada hai ok ok
+Market neutral lag raha hai mast,positive,market neutral lag raha hai mast,market neutral lag raha hai mast
+Market neutral lag raha hai bad,negative,market neutral lag raha hai bad,market neutral lag raha hai bad
+Market neutral lag raha hai thik thak,neutral,market neutral lag raha hai thik thak,market neutral lag raha hai thik thak
+"Bakwaas product, waste of money mast",positive,bakwas product waste of money mast,"bakwas product, waste of money mast"
+Ye phone amazingggg hai! flop,negative,ye phone amazingg hai flop,ye phone amazing hai! flop
+Ye phone amazingggg hai! ok ok,neutral,ye phone amazingg hai ok ok,ye phone amazing hai! ok ok
+Ok ok features hai zabardast,positive,ok ok features hai zabardast,ok ok features hai zabardast
+"App crash ho gaya, bakwas! waste",negative,app crash ho gaya bakwas waste,"app crash ho gaya, bakwas! waste"
+"App crash ho gaya, bakwas! thik thak",neutral,app crash ho gaya bakwas thik thak,"app crash ho gaya, bakwas! thik thak"
+Ok ok features hai fantastic,positive,ok ok features hai fantastic,ok ok features hai fantastic
+App superb chal raha hai pathetic,negative,app superb chal raha hai pathetic,app superb chal raha hai pathetic
+App superb chal raha hai average,neutral,app superb chal raha hai average,app superb chal raha hai average
+Thoda thik lag raha hai aaj zabardast,positive,thoda thik lag raha hai aaj zabardast,thoda thik lag raha hai aaj zabardast
+Sick feel kar rahi hu waste,negative,sick feel kar rahi hu waste,sick feel kar rahi hu waste
+Thoda thik lag raha hai aaj normal,neutral,thoda thik lag raha hai aaj normal,thoda thik lag raha hai aaj normal
+"App crash ho gaya, bakwas! zabardast",positive,app crash ho gaya bakwas zabardast,"app crash ho gaya, bakwas! zabardast"
+"App crash ho gaya, bakwas! bad",negative,app crash ho gaya bakwas bad,"app crash ho gaya, bakwas! bad"
+"App crash ho gaya, bakwas! thik thak",neutral,app crash ho gaya bakwas thik thak,"app crash ho gaya, bakwas! thik thak"
+Normal day with family awesome,positive,normal day with family awesome,normal day with family awesome
+Normal day with family bad,negative,normal day with family bad,normal day with family bad
+Normal day with family decent,neutral,normal day with family decent,normal day with family decent
+Market neutral lag raha hai mast,positive,market neutral lag raha hai mast,market neutral lag raha hai mast
+Market neutral lag raha hai waste,negative,market neutral lag raha hai waste,market neutral lag raha hai waste
+"Profit mila, feeling goooood! ok ok",neutral,profit mila feeling good ok ok,"profit mila, feeling good! ok ok"
+Thoda thik lag raha hai aaj superb,positive,thoda thik lag raha hai aaj superb,thoda thik lag raha hai aaj superb
+Doctor ne acha treatment diya waste,negative,doctor ne good treatment diya waste,doctor ne acha treatment diya waste
+Sick feel kar rahi hu decent,neutral,sick feel kar rahi hu decent,sick feel kar rahi hu decent
+Yaar this movie was awwwesooome! zabardast,positive,yaar this movie was awesome zabardast,yaar this movie was a zabardast
+"Movie thik thak thi, nothing special boring",negative,movie thik thak thi nothing special boring,"movie thik thak thi, nothing special boring"
+Bahut booooring tha yeh film thik thak,neutral,bahut boring tha yeh film thik thak,bahut boring tha yeh film thik thak
+Class average thi amazing,positive,class average thi amazing,class average thi amazing
+Paper tough tha yaar flop,negative,paper tough tha yaar flop,paper tough tha yaar flop
+Paper tough tha yaar average,neutral,paper tough tha yaar average,paper tough tha yaar average
+Delivery fast aur packing good zabardast,positive,delivery fast aur packing good zabardast,delivery fast aur packing good zabardast
+Product damaged aaya! flop,negative,product damaged aaya flop,product damaged aaya! flop
+Delivery fast aur packing good ok ok,neutral,delivery fast aur packing good ok ok,delivery fast aur packing good ok ok
+Khana sooooo gud tha! awesome,positive,khana soo good tha awesome,khana soo good tha! awesome
+"Food was okaay, service fine bad",negative,food was okaay service fine bad,"food was okaay, service fine bad"
+"Food was okaay, service fine decent",neutral,food was okaay service fine decent,"food was okaay, service fine decent"
+"Movie thik thak thi, nothing special mast",positive,movie thik thak thi nothing special mast,"movie thik thak thi, nothing special mast"
+Yaar this movie was awwwesooome! waste,negative,yaar this movie was awesome waste,yaar this movie was a waste
+"Movie thik thak thi, nothing special average",neutral,movie thik thak thi nothing special average,"movie thik thak thi, nothing special average"
+"Product thik thak, price ke hisaab se zabardast",positive,product thik thak price ke hisaab se zabardast,"product thik thak, price ke hisaab se zabardast"
+Ye phone amazingggg hai! waste,negative,ye phone amazingg hai waste,ye phone amazing hai! waste
+"Bakwaas product, waste of money normal",neutral,bakwas product waste of money normal,"bakwas product, waste of money normal"
+"Ladai ho gayi, bura lag raha hai awesome",positive,ladai ho gayi bura lag raha hai awesome,"ladai ho gayi, bura lag raha hai awesome"
+"Ladai ho gayi, bura lag raha hai waste",negative,ladai ho gayi bura lag raha hai waste,"ladai ho gayi, bura lag raha hai waste"
+Normal day with family average,neutral,normal day with family average,normal day with family average
+Thoda thik lag raha hai aaj awesome,positive,thoda thik lag raha hai aaj awesome,thoda thik lag raha hai aaj awesome
+Sick feel kar rahi hu flop,negative,sick feel kar rahi hu flop,sick feel kar rahi hu flop
+Doctor ne acha treatment diya normal,neutral,doctor ne good treatment diya normal,doctor ne acha treatment diya normal
+Event boring tha yaar mast,positive,event boring tha yaar mast,event boring tha yaar mast
+Concert amazinggg tha! worst,negative,concert amazingg tha worst,concert amazing tha! worst
+Show normal tha decent,neutral,show normal tha decent,show normal tha decent
+Place was breathtakingggg! great,positive,place was breathtakingg great,place was breathtaking! great
+Place was breathtakingggg! bad,negative,place was breathtakingg bad,place was breathtaking! bad
+"Decent trip, view mast tha ok ok",neutral,decent trip view mast tha ok ok,"decent trip, view mast tha ok ok"
+"Ladai ho gayi, bura lag raha hai great",positive,ladai ho gayi bura lag raha hai great,"ladai ho gayi, bura lag raha hai great"
+Dinner awesome tha! boring,negative,dinner awesome tha boring,dinner awesome tha! boring
+Dinner awesome tha! decent,neutral,dinner awesome tha decent,dinner awesome tha! decent
+Promotion mil gaya yaar! great,positive,promotion mil gaya yaar great,promotion mil gaya yaar! great
+Promotion mil gaya yaar! boring,negative,promotion mil gaya yaar boring,promotion mil gaya yaar! boring
+Office day normal tha ok ok,neutral,office day normal tha ok ok,office day normal tha ok ok
+Delivery fast aur packing good amazing,positive,delivery fast aur packing good amazing,delivery fast aur packing good amazing
+Thik thak experience pathetic,negative,thik thak experience pathetic,thik thak experience pathetic
+Thik thak experience thik thak,neutral,thik thak experience thik thak,thik thak experience thik thak
+"Bakwaas product, waste of money mast",positive,bakwas product waste of money mast,"bakwas product, waste of money mast"
+"Product thik thak, price ke hisaab se waste",negative,product thik thak price ke hisaab se waste,"product thik thak, price ke hisaab se waste"
+Ye phone amazingggg hai! average,neutral,ye phone amazingg hai average,ye phone amazing hai! average
+Crowded aur dirty location fantastic,positive,crowded aur dirty location fantastic,crowded aur dirty location fantastic
+Place was breathtakingggg! bad,negative,place was breathtakingg bad,place was breathtaking! bad
+"Decent trip, view mast tha normal",neutral,decent trip view mast tha normal,"decent trip, view mast tha normal"
+"Bakwaas product, waste of money superb",positive,bakwas product waste of money superb,"bakwas product, waste of money superb"
+"Bakwaas product, waste of money waste",negative,bakwas product waste of money waste,"bakwas product, waste of money waste"
+"Product thik thak, price ke hisaab se ok ok",neutral,product thik thak price ke hisaab se ok ok,"product thik thak, price ke hisaab se ok ok"
+Khana sooooo gud tha! fantastic,positive,khana soo good tha fantastic,khana soo good tha! fantastic
+Taste boooring aur bland tha flop,negative,taste boring aur bland tha flop,taste boring aur bland tha flop
+"Food was okaay, service fine decent",neutral,food was okaay service fine decent,"food was okaay, service fine decent"
+"App crash ho gaya, bakwas! zabardast",positive,app crash ho gaya bakwas zabardast,"app crash ho gaya, bakwas! zabardast"
+Ok ok features hai pathetic,negative,ok ok features hai pathetic,ok ok features hai pathetic
+"App crash ho gaya, bakwas! decent",neutral,app crash ho gaya bakwas decent,"app crash ho gaya, bakwas! decent"
+Thoda thik lag raha hai aaj amazing,positive,thoda thik lag raha hai aaj amazing,thoda thik lag raha hai aaj amazing
+Thoda thik lag raha hai aaj waste,negative,thoda thik lag raha hai aaj waste,thoda thik lag raha hai aaj waste
+Thoda thik lag raha hai aaj average,neutral,thoda thik lag raha hai aaj average,thoda thik lag raha hai aaj average
+Paper tough tha yaar mast,positive,paper tough tha yaar mast,paper tough tha yaar mast
+Exam mast gaya! waste,negative,exam mast gaya waste,exam mast gaya! waste
+Class average thi thik thak,neutral,class average thi thik thak,class average thi thik thak
+"Product thik thak, price ke hisaab se superb",positive,product thik thak price ke hisaab se superb,"product thik thak, price ke hisaab se superb"
+"Bakwaas product, waste of money pathetic",negative,bakwas product waste of money pathetic,"bakwas product, waste of money pathetic"
+"Bakwaas product, waste of money ok ok",neutral,bakwas product waste of money ok ok,"bakwas product, waste of money ok ok"
+Event boring tha yaar zabardast,positive,event boring tha yaar zabardast,event boring tha yaar zabardast
+Event boring tha yaar flop,negative,event boring tha yaar flop,event boring tha yaar flop
+Concert amazinggg tha! normal,neutral,concert amazingg tha normal,concert amazing tha! normal
+Doctor ne acha treatment diya mast,positive,doctor ne good treatment diya mast,doctor ne acha treatment diya mast
+Doctor ne acha treatment diya bakwas,negative,doctor ne good treatment diya bakwas,doctor ne acha treatment diya bakwas
+Thoda thik lag raha hai aaj average,neutral,thoda thik lag raha hai aaj average,thoda thik lag raha hai aaj average
+"Food was okaay, service fine superb",positive,food was okaay service fine superb,"food was okaay, service fine superb"
+Taste boooring aur bland tha boring,negative,taste boring aur bland tha boring,taste boring aur bland tha boring
+Khana sooooo gud tha! normal,neutral,khana soo good tha normal,khana soo good tha! normal
+Market neutral lag raha hai great,positive,market neutral lag raha hai great,market neutral lag raha hai great
+"Profit mila, feeling goooood! bakwas",negative,profit mila feeling good bakwas,"profit mila, feeling good! bakwas"
+"Profit mila, feeling goooood! decent",neutral,profit mila feeling good decent,"profit mila, feeling good! decent"
+Bahut booooring tha yeh film amazing,positive,bahut boring tha yeh film amazing,bahut boring tha yeh film amazing
+Bahut booooring tha yeh film flop,negative,bahut boring tha yeh film flop,bahut boring tha yeh film flop
+"Movie thik thak thi, nothing special average",neutral,movie thik thak thi nothing special average,"movie thik thak thi, nothing special average"
+Yaar this movie was awwwesooome! great,positive,yaar this movie was awesome great,yaar this movie was a great
+Yaar this movie was awwwesooome! bakwas,negative,yaar this movie was awesome bakwas,yaar this movie was a bakwas
+Yaar this movie was awwwesooome! average,neutral,yaar this movie was awesome average,yaar this movie was a average
+"Bakwaas product, waste of money zabardast",positive,bakwas product waste of money zabardast,"bakwas product, waste of money zabardast"
+"Product thik thak, price ke hisaab se boring",negative,product thik thak price ke hisaab se boring,"product thik thak, price ke hisaab se boring"
+"Product thik thak, price ke hisaab se ok ok",neutral,product thik thak price ke hisaab se ok ok,"product thik thak, price ke hisaab se ok ok"
+"Food was okaay, service fine superb",positive,food was okaay service fine superb,"food was okaay, service fine superb"
+"Food was okaay, service fine boring",negative,food was okaay service fine boring,"food was okaay, service fine boring"
+"Food was okaay, service fine thik thak",neutral,food was okaay service fine thik thak,"food was okaay, service fine thik thak"
+"App crash ho gaya, bakwas! great",positive,app crash ho gaya bakwas great,"app crash ho gaya, bakwas! great"
+App superb chal raha hai pathetic,negative,app superb chal raha hai pathetic,app superb chal raha hai pathetic
+App superb chal raha hai ok ok,neutral,app superb chal raha hai ok ok,app superb chal raha hai ok ok
+Thoda thik lag raha hai aaj zabardast,positive,thoda thik lag raha hai aaj zabardast,thoda thik lag raha hai aaj zabardast
+Doctor ne acha treatment diya flop,negative,doctor ne good treatment diya flop,doctor ne acha treatment diya flop
+Sick feel kar rahi hu average,neutral,sick feel kar rahi hu average,sick feel kar rahi hu average
+Concert amazinggg tha! great,positive,concert amazingg tha great,concert amazing tha! great
+Event boring tha yaar waste,negative,event boring tha yaar waste,event boring tha yaar waste
+Show normal tha normal,neutral,show normal tha normal,show normal tha normal
+Workload bohot zyada hai mast,positive,workload bohot zyada hai mast,workload bohot zyada hai mast
+Office day normal tha waste,negative,office day normal tha waste,office day normal tha waste
+Promotion mil gaya yaar! thik thak,neutral,promotion mil gaya yaar thik thak,promotion mil gaya yaar! thik thak
+"Food was okaay, service fine zabardast",positive,food was okaay service fine zabardast,"food was okaay, service fine zabardast"
+"Food was okaay, service fine bakwas",negative,food was okaay service fine bakwas,"food was okaay, service fine bakwas"
+Khana sooooo gud tha! ok ok,neutral,khana soo good tha ok ok,khana soo good tha! ok ok
+Khana sooooo gud tha! mast,positive,khana soo good tha mast,khana soo good tha! mast
+Taste boooring aur bland tha worst,negative,taste boring aur bland tha worst,taste boring aur bland tha worst
+Taste boooring aur bland tha decent,neutral,taste boring aur bland tha decent,taste boring aur bland tha decent
+"Profit mila, feeling goooood! zabardast",positive,profit mila feeling good zabardast,"profit mila, feeling good! zabardast"
+Market neutral lag raha hai flop,negative,market neutral lag raha hai flop,market neutral lag raha hai flop
+Market neutral lag raha hai decent,neutral,market neutral lag raha hai decent,market neutral lag raha hai decent
+Taste boooring aur bland tha zabardast,positive,taste boring aur bland tha zabardast,taste boring aur bland tha zabardast
+Khana sooooo gud tha! pathetic,negative,khana soo good tha pathetic,khana soo good tha! pathetic
+Taste boooring aur bland tha normal,neutral,taste boring aur bland tha normal,taste boring aur bland tha normal
+"App crash ho gaya, bakwas! great",positive,app crash ho gaya bakwas great,"app crash ho gaya, bakwas! great"
+"App crash ho gaya, bakwas! boring",negative,app crash ho gaya bakwas boring,"app crash ho gaya, bakwas! boring"
+App superb chal raha hai normal,neutral,app superb chal raha hai normal,app superb chal raha hai normal
+"Loss hua, bad day great",positive,loss hua bad day great,"loss hua, bad day great"
+"Profit mila, feeling goooood! pathetic",negative,profit mila feeling good pathetic,"profit mila, feeling good! pathetic"
+"Profit mila, feeling goooood! average",neutral,profit mila feeling good average,"profit mila, feeling good! average"
+Workload bohot zyada hai great,positive,workload bohot zyada hai great,workload bohot zyada hai great
+Promotion mil gaya yaar! bakwas,negative,promotion mil gaya yaar bakwas,promotion mil gaya yaar! bakwas
+Promotion mil gaya yaar! decent,neutral,promotion mil gaya yaar decent,promotion mil gaya yaar! decent
+Class average thi fantastic,positive,class average thi fantastic,class average thi fantastic
+Paper tough tha yaar pathetic,negative,paper tough tha yaar pathetic,paper tough tha yaar pathetic
+Exam mast gaya! ok ok,neutral,exam mast gaya ok ok,exam mast gaya! ok ok
+Ye phone amazingggg hai! fantastic,positive,ye phone amazingg hai fantastic,ye phone amazing hai! fantastic
+"Product thik thak, price ke hisaab se bakwas",negative,product thik thak price ke hisaab se bakwas,"product thik thak, price ke hisaab se bakwas"
+"Product thik thak, price ke hisaab se average",neutral,product thik thak price ke hisaab se average,"product thik thak, price ke hisaab se average"
+Sick feel kar rahi hu great,positive,sick feel kar rahi hu great,sick feel kar rahi hu great
+Sick feel kar rahi hu bakwas,negative,sick feel kar rahi hu bakwas,sick feel kar rahi hu bakwas
+Thoda thik lag raha hai aaj ok ok,neutral,thoda thik lag raha hai aaj ok ok,thoda thik lag raha hai aaj ok ok
+"Product thik thak, price ke hisaab se great",positive,product thik thak price ke hisaab se great,"product thik thak, price ke hisaab se great"
+"Bakwaas product, waste of money flop",negative,bakwas product waste of money flop,"bakwas product, waste of money flop"
+Ye phone amazingggg hai! decent,neutral,ye phone amazingg hai decent,ye phone amazing hai! decent
+Taste boooring aur bland tha zabardast,positive,taste boring aur bland tha zabardast,taste boring aur bland tha zabardast
+Khana sooooo gud tha! bad,negative,khana soo good tha bad,khana soo good tha! bad
+Khana sooooo gud tha! normal,neutral,khana soo good tha normal,khana soo good tha! normal
+"Profit mila, feeling goooood! great",positive,profit mila feeling good great,"profit mila, feeling good! great"
+"Loss hua, bad day worst",negative,loss hua bad day worst,"loss hua, bad day worst"
+"Profit mila, feeling goooood! average",neutral,profit mila feeling good average,"profit mila, feeling good! average"
+Market neutral lag raha hai great,positive,market neutral lag raha hai great,market neutral lag raha hai great
+"Loss hua, bad day bad",negative,loss hua bad day bad,"loss hua, bad day bad"
+Market neutral lag raha hai average,neutral,market neutral lag raha hai average,market neutral lag raha hai average
+Khana sooooo gud tha! fantastic,positive,khana soo good tha fantastic,khana soo good tha! fantastic
+Khana sooooo gud tha! bakwas,negative,khana soo good tha bakwas,khana soo good tha! bakwas
+Khana sooooo gud tha! ok ok,neutral,khana soo good tha ok ok,khana soo good tha! ok ok
+Dinner awesome tha! awesome,positive,dinner awesome tha awesome,dinner awesome tha! awesome
+"Ladai ho gayi, bura lag raha hai worst",negative,ladai ho gayi bura lag raha hai worst,"ladai ho gayi, bura lag raha hai worst"
+"Ladai ho gayi, bura lag raha hai normal",neutral,ladai ho gayi bura lag raha hai normal,"ladai ho gayi, bura lag raha hai normal"
+Workload bohot zyada hai great,positive,workload bohot zyada hai great,workload bohot zyada hai great
+Office day normal tha flop,negative,office day normal tha flop,office day normal tha flop
+Promotion mil gaya yaar! ok ok,neutral,promotion mil gaya yaar ok ok,promotion mil gaya yaar! ok ok
+Doctor ne acha treatment diya amazing,positive,doctor ne good treatment diya amazing,doctor ne acha treatment diya amazing
+Doctor ne acha treatment diya boring,negative,doctor ne good treatment diya boring,doctor ne acha treatment diya boring
+Doctor ne acha treatment diya thik thak,neutral,doctor ne good treatment diya thik thak,doctor ne acha treatment diya thik thak
+Place was breathtakingggg! zabardast,positive,place was breathtakingg zabardast,place was breathtaking! zabardast
+Crowded aur dirty location bad,negative,crowded aur dirty location bad,crowded aur dirty location bad
+Place was breathtakingggg! normal,neutral,place was breathtakingg normal,place was breathtaking! normal
+"Food was okaay, service fine awesome",positive,food was okaay service fine awesome,"food was okaay, service fine awesome"
+Khana sooooo gud tha! bakwas,negative,khana soo good tha bakwas,khana soo good tha! bakwas
+"Food was okaay, service fine decent",neutral,food was okaay service fine decent,"food was okaay, service fine decent"
+"Movie thik thak thi, nothing special awesome",positive,movie thik thak thi nothing special awesome,"movie thik thak thi, nothing special awesome"
+Bahut booooring tha yeh film flop,negative,bahut boring tha yeh film flop,bahut boring tha yeh film flop
+Yaar this movie was awwwesooome! thik thak,neutral,yaar this movie was awesome thik thak,yaar this movie was a thik thak
+Dinner awesome tha! amazing,positive,dinner awesome tha amazing,dinner awesome tha! amazing
+"Ladai ho gayi, bura lag raha hai boring",negative,ladai ho gayi bura lag raha hai boring,"ladai ho gayi, bura lag raha hai boring"
+"Ladai ho gayi, bura lag raha hai ok ok",neutral,ladai ho gayi bura lag raha hai ok ok,"ladai ho gayi, bura lag raha hai ok ok"
+Event boring tha yaar mast,positive,event boring tha yaar mast,event boring tha yaar mast
+Event boring tha yaar bakwas,negative,event boring tha yaar bakwas,event boring tha yaar bakwas
+Event boring tha yaar normal,neutral,event boring tha yaar normal,event boring tha yaar normal
+Office day normal tha fantastic,positive,office day normal tha fantastic,office day normal tha fantastic
+Office day normal tha pathetic,negative,office day normal tha pathetic,office day normal tha pathetic
+Promotion mil gaya yaar! normal,neutral,promotion mil gaya yaar normal,promotion mil gaya yaar! normal
+Workload bohot zyada hai great,positive,workload bohot zyada hai great,workload bohot zyada hai great
+Office day normal tha bakwas,negative,office day normal tha bakwas,office day normal tha bakwas
+Promotion mil gaya yaar! normal,neutral,promotion mil gaya yaar normal,promotion mil gaya yaar! normal
+Bahut booooring tha yeh film superb,positive,bahut boring tha yeh film superb,bahut boring tha yeh film superb
+Bahut booooring tha yeh film worst,negative,bahut boring tha yeh film worst,bahut boring tha yeh film worst
+Bahut booooring tha yeh film normal,neutral,bahut boring tha yeh film normal,bahut boring tha yeh film normal
+"App crash ho gaya, bakwas! amazing",positive,app crash ho gaya bakwas amazing,"app crash ho gaya, bakwas! amazing"
+Ok ok features hai flop,negative,ok ok features hai flop,ok ok features hai flop
+"App crash ho gaya, bakwas! ok ok",neutral,app crash ho gaya bakwas ok ok,"app crash ho gaya, bakwas! ok ok"
+"App crash ho gaya, bakwas! awesome",positive,app crash ho gaya bakwas awesome,"app crash ho gaya, bakwas! awesome"
+"App crash ho gaya, bakwas! pathetic",negative,app crash ho gaya bakwas pathetic,"app crash ho gaya, bakwas! pathetic"
+"App crash ho gaya, bakwas! decent",neutral,app crash ho gaya bakwas decent,"app crash ho gaya, bakwas! decent"
+Paper tough tha yaar zabardast,positive,paper tough tha yaar zabardast,paper tough tha yaar zabardast
+Paper tough tha yaar worst,negative,paper tough tha yaar worst,paper tough tha yaar worst
+Exam mast gaya! ok ok,neutral,exam mast gaya ok ok,exam mast gaya! ok ok
+Class average thi amazing,positive,class average thi amazing,class average thi amazing
+Paper tough tha yaar bad,negative,paper tough tha yaar bad,paper tough tha yaar bad
+Class average thi thik thak,neutral,class average thi thik thak,class average thi thik thak
+"Movie thik thak thi, nothing special zabardast",positive,movie thik thak thi nothing special zabardast,"movie thik thak thi, nothing special zabardast"
+Yaar this movie was awwwesooome! boring,negative,yaar this movie was awesome boring,yaar this movie was a boring
+"Movie thik thak thi, nothing special decent",neutral,movie thik thak thi nothing special decent,"movie thik thak thi, nothing special decent"
+Place was breathtakingggg! great,positive,place was breathtakingg great,place was breathtaking! great
+Crowded aur dirty location pathetic,negative,crowded aur dirty location pathetic,crowded aur dirty location pathetic
+Place was breathtakingggg! decent,neutral,place was breathtakingg decent,place was breathtaking! decent
+Product damaged aaya! zabardast,positive,product damaged aaya zabardast,product damaged aaya! zabardast
+Delivery fast aur packing good pathetic,negative,delivery fast aur packing good pathetic,delivery fast aur packing good pathetic
+Delivery fast aur packing good normal,neutral,delivery fast aur packing good normal,delivery fast aur packing good normal
+"Ladai ho gayi, bura lag raha hai zabardast",positive,ladai ho gayi bura lag raha hai zabardast,"ladai ho gayi, bura lag raha hai zabardast"
+"Ladai ho gayi, bura lag raha hai bad",negative,ladai ho gayi bura lag raha hai bad,"ladai ho gayi, bura lag raha hai bad"
+Normal day with family decent,neutral,normal day with family decent,normal day with family decent
+"Decent trip, view mast tha awesome",positive,decent trip view mast tha awesome,"decent trip, view mast tha awesome"
+Place was breathtakingggg! bakwas,negative,place was breathtakingg bakwas,place was breathtaking! bakwas
+"Decent trip, view mast tha thik thak",neutral,decent trip view mast tha thik thak,"decent trip, view mast tha thik thak"
+"Movie thik thak thi, nothing special superb",positive,movie thik thak thi nothing special superb,"movie thik thak thi, nothing special superb"
+Bahut booooring tha yeh film bad,negative,bahut boring tha yeh film bad,bahut boring tha yeh film bad
+"Movie thik thak thi, nothing special normal",neutral,movie thik thak thi nothing special normal,"movie thik thak thi, nothing special normal"
+Taste boooring aur bland tha mast,positive,taste boring aur bland tha mast,taste boring aur bland tha mast
+Taste boooring aur bland tha flop,negative,taste boring aur bland tha flop,taste boring aur bland tha flop
+"Food was okaay, service fine thik thak",neutral,food was okaay service fine thik thak,"food was okaay, service fine thik thak"
+Concert amazinggg tha! mast,positive,concert amazingg tha mast,concert amazing tha! mast
+Concert amazinggg tha! flop,negative,concert amazingg tha flop,concert amazing tha! flop
+Event boring tha yaar ok ok,neutral,event boring tha yaar ok ok,event boring tha yaar ok ok
+"App crash ho gaya, bakwas! zabardast",positive,app crash ho gaya bakwas zabardast,"app crash ho gaya, bakwas! zabardast"
+App superb chal raha hai boring,negative,app superb chal raha hai boring,app superb chal raha hai boring
+"App crash ho gaya, bakwas! decent",neutral,app crash ho gaya bakwas decent,"app crash ho gaya, bakwas! decent"
+Bahut booooring tha yeh film amazing,positive,bahut boring tha yeh film amazing,bahut boring tha yeh film amazing
+Yaar this movie was awwwesooome! bakwas,negative,yaar this movie was awesome bakwas,yaar this movie was a bakwas
+"Movie thik thak thi, nothing special decent",neutral,movie thik thak thi nothing special decent,"movie thik thak thi, nothing special decent"
+"Movie thik thak thi, nothing special superb",positive,movie thik thak thi nothing special superb,"movie thik thak thi, nothing special superb"
+Yaar this movie was awwwesooome! boring,negative,yaar this movie was awesome boring,yaar this movie was a boring
+Yaar this movie was awwwesooome! normal,neutral,yaar this movie was awesome normal,yaar this movie was a normal
+"Product thik thak, price ke hisaab se fantastic",positive,product thik thak price ke hisaab se fantastic,"product thik thak, price ke hisaab se fantastic"
+"Bakwaas product, waste of money bad",negative,bakwas product waste of money bad,"bakwas product, waste of money bad"
+"Product thik thak, price ke hisaab se average",neutral,product thik thak price ke hisaab se average,"product thik thak, price ke hisaab se average"
+Class average thi awesome,positive,class average thi awesome,class average thi awesome
+Paper tough tha yaar bad,negative,paper tough tha yaar bad,paper tough tha yaar bad
+Class average thi ok ok,neutral,class average thi ok ok,class average thi ok ok
+"App crash ho gaya, bakwas! zabardast",positive,app crash ho gaya bakwas zabardast,"app crash ho gaya, bakwas! zabardast"
+App superb chal raha hai boring,negative,app superb chal raha hai boring,app superb chal raha hai boring
+Ok ok features hai normal,neutral,ok ok features hai normal,ok ok features hai normal
+Normal day with family zabardast,positive,normal day with family zabardast,normal day with family zabardast
+Normal day with family boring,negative,normal day with family boring,normal day with family boring
+Normal day with family normal,neutral,normal day with family normal,normal day with family normal
+Concert amazinggg tha! awesome,positive,concert amazingg tha awesome,concert amazing tha! awesome
+Show normal tha flop,negative,show normal tha flop,show normal tha flop
+Concert amazinggg tha! thik thak,neutral,concert amazingg tha thik thak,concert amazing tha! thik thak
+Exam mast gaya! zabardast,positive,exam mast gaya zabardast,exam mast gaya! zabardast
+Class average thi bad,negative,class average thi bad,class average thi bad
+Exam mast gaya! average,neutral,exam mast gaya average,exam mast gaya! average
+Promotion mil gaya yaar! great,positive,promotion mil gaya yaar great,promotion mil gaya yaar! great
+Office day normal tha pathetic,negative,office day normal tha pathetic,office day normal tha pathetic
+Office day normal tha normal,neutral,office day normal tha normal,office day normal tha normal
+Ye phone amazingggg hai! zabardast,positive,ye phone amazingg hai zabardast,ye phone amazing hai! zabardast
+Ye phone amazingggg hai! worst,negative,ye phone amazingg hai worst,ye phone amazing hai! worst
+"Bakwaas product, waste of money normal",neutral,bakwas product waste of money normal,"bakwas product, waste of money normal"
+Normal day with family awesome,positive,normal day with family awesome,normal day with family awesome
+"Ladai ho gayi, bura lag raha hai flop",negative,ladai ho gayi bura lag raha hai flop,"ladai ho gayi, bura lag raha hai flop"
+Dinner awesome tha! decent,neutral,dinner awesome tha decent,dinner awesome tha! decent
+Office day normal tha mast,positive,office day normal tha mast,office day normal tha mast
+Promotion mil gaya yaar! boring,negative,promotion mil gaya yaar boring,promotion mil gaya yaar! boring
+Promotion mil gaya yaar! decent,neutral,promotion mil gaya yaar decent,promotion mil gaya yaar! decent
+Concert amazinggg tha! awesome,positive,concert amazingg tha awesome,concert amazing tha! awesome
+Show normal tha waste,negative,show normal tha waste,show normal tha waste
+Show normal tha ok ok,neutral,show normal tha ok ok,show normal tha ok ok
+Khana sooooo gud tha! fantastic,positive,khana soo good tha fantastic,khana soo good tha! fantastic
+Khana sooooo gud tha! pathetic,negative,khana soo good tha pathetic,khana soo good tha! pathetic
+"Food was okaay, service fine ok ok",neutral,food was okaay service fine ok ok,"food was okaay, service fine ok ok"
+"Decent trip, view mast tha great",positive,decent trip view mast tha great,"decent trip, view mast tha great"
+"Decent trip, view mast tha bakwas",negative,decent trip view mast tha bakwas,"decent trip, view mast tha bakwas"
+"Decent trip, view mast tha ok ok",neutral,decent trip view mast tha ok ok,"decent trip, view mast tha ok ok"
+"Ladai ho gayi, bura lag raha hai mast",positive,ladai ho gayi bura lag raha hai mast,"ladai ho gayi, bura lag raha hai mast"
+"Ladai ho gayi, bura lag raha hai worst",negative,ladai ho gayi bura lag raha hai worst,"ladai ho gayi, bura lag raha hai worst"
+Normal day with family average,neutral,normal day with family average,normal day with family average
+Thik thak experience fantastic,positive,thik thak experience fantastic,thik thak experience fantastic
+Delivery fast aur packing good flop,negative,delivery fast aur packing good flop,delivery fast aur packing good flop
+Product damaged aaya! ok ok,neutral,product damaged aaya ok ok,product damaged aaya! ok ok
+Class average thi superb,positive,class average thi superb,class average thi superb
+Exam mast gaya! flop,negative,exam mast gaya flop,exam mast gaya! flop
+Class average thi average,neutral,class average thi average,class average thi average
+Thik thak experience great,positive,thik thak experience great,thik thak experience great
+Product damaged aaya! flop,negative,product damaged aaya flop,product damaged aaya! flop
+Thik thak experience normal,neutral,thik thak experience normal,thik thak experience normal
+Taste boooring aur bland tha amazing,positive,taste boring aur bland tha amazing,taste boring aur bland tha amazing
+Taste boooring aur bland tha worst,negative,taste boring aur bland tha worst,taste boring aur bland tha worst
+Khana sooooo gud tha! average,neutral,khana soo good tha average,khana soo good tha! average
+"Movie thik thak thi, nothing special superb",positive,movie thik thak thi nothing special superb,"movie thik thak thi, nothing special superb"
+"Movie thik thak thi, nothing special pathetic",negative,movie thik thak thi nothing special pathetic,"movie thik thak thi, nothing special pathetic"
+Bahut booooring tha yeh film normal,neutral,bahut boring tha yeh film normal,bahut boring tha yeh film normal
+Workload bohot zyada hai great,positive,workload bohot zyada hai great,workload bohot zyada hai great
+Promotion mil gaya yaar! pathetic,negative,promotion mil gaya yaar pathetic,promotion mil gaya yaar! pathetic
+Office day normal tha decent,neutral,office day normal tha decent,office day normal tha decent
+Delivery fast aur packing good zabardast,positive,delivery fast aur packing good zabardast,delivery fast aur packing good zabardast
+Product damaged aaya! bakwas,negative,product damaged aaya bakwas,product damaged aaya! bakwas
+Delivery fast aur packing good normal,neutral,delivery fast aur packing good normal,delivery fast aur packing good normal
+Normal day with family zabardast,positive,normal day with family zabardast,normal day with family zabardast
+Normal day with family worst,negative,normal day with family worst,normal day with family worst
+Dinner awesome tha! ok ok,neutral,dinner awesome tha ok ok,dinner awesome tha! ok ok
+Show normal tha fantastic,positive,show normal tha fantastic,show normal tha fantastic
+Show normal tha flop,negative,show normal tha flop,show normal tha flop
+Event boring tha yaar decent,neutral,event boring tha yaar decent,event boring tha yaar decent
+Market neutral lag raha hai great,positive,market neutral lag raha hai great,market neutral lag raha hai great
+"Profit mila, feeling goooood! boring",negative,profit mila feeling good boring,"profit mila, feeling good! boring"
+"Profit mila, feeling goooood! average",neutral,profit mila feeling good average,"profit mila, feeling good! average"
+Product damaged aaya! awesome,positive,product damaged aaya awesome,product damaged aaya! awesome
+Product damaged aaya! pathetic,negative,product damaged aaya pathetic,product damaged aaya! pathetic
+Thik thak experience average,neutral,thik thak experience average,thik thak experience average
+Show normal tha great,positive,show normal tha great,show normal tha great
+Concert amazinggg tha! flop,negative,concert amazingg tha flop,concert amazing tha! flop
+Concert amazinggg tha! thik thak,neutral,concert amazingg tha thik thak,concert amazing tha! thik thak
+Class average thi mast,positive,class average thi mast,class average thi mast
+Exam mast gaya! bakwas,negative,exam mast gaya bakwas,exam mast gaya! bakwas
+Paper tough tha yaar normal,neutral,paper tough tha yaar normal,paper tough tha yaar normal
+"Product thik thak, price ke hisaab se superb",positive,product thik thak price ke hisaab se superb,"product thik thak, price ke hisaab se superb"
+Ye phone amazingggg hai! boring,negative,ye phone amazingg hai boring,ye phone amazing hai! boring
+Ye phone amazingggg hai! normal,neutral,ye phone amazingg hai normal,ye phone amazing hai! normal
+Show normal tha great,positive,show normal tha great,show normal tha great
+Concert amazinggg tha! waste,negative,concert amazingg tha waste,concert amazing tha! waste
+Event boring tha yaar normal,neutral,event boring tha yaar normal,event boring tha yaar normal
+Dinner awesome tha! zabardast,positive,dinner awesome tha zabardast,dinner awesome tha! zabardast
+"Ladai ho gayi, bura lag raha hai pathetic",negative,ladai ho gayi bura lag raha hai pathetic,"ladai ho gayi, bura lag raha hai pathetic"
+"Ladai ho gayi, bura lag raha hai ok ok",neutral,ladai ho gayi bura lag raha hai ok ok,"ladai ho gayi, bura lag raha hai ok ok"
+"Bakwaas product, waste of money great",positive,bakwas product waste of money great,"bakwas product, waste of money great"
+"Bakwaas product, waste of money bakwas",negative,bakwas product waste of money bakwas,"bakwas product, waste of money bakwas"
+"Product thik thak, price ke hisaab se average",neutral,product thik thak price ke hisaab se average,"product thik thak, price ke hisaab se average"
+Product damaged aaya! amazing,positive,product damaged aaya amazing,product damaged aaya! amazing
+Thik thak experience flop,negative,thik thak experience flop,thik thak experience flop
+Thik thak experience thik thak,neutral,thik thak experience thik thak,thik thak experience thik thak
+Dinner awesome tha! fantastic,positive,dinner awesome tha fantastic,dinner awesome tha! fantastic
+"Ladai ho gayi, bura lag raha hai pathetic",negative,ladai ho gayi bura lag raha hai pathetic,"ladai ho gayi, bura lag raha hai pathetic"
+Dinner awesome tha! average,neutral,dinner awesome tha average,dinner awesome tha! average
+Office day normal tha superb,positive,office day normal tha superb,office day normal tha superb
+Promotion mil gaya yaar! waste,negative,promotion mil gaya yaar waste,promotion mil gaya yaar! waste
+Promotion mil gaya yaar! normal,neutral,promotion mil gaya yaar normal,promotion mil gaya yaar! normal
+"Loss hua, bad day great",positive,loss hua bad day great,"loss hua, bad day great"
+"Profit mila, feeling goooood! waste",negative,profit mila feeling good waste,"profit mila, feeling good! waste"
+Market neutral lag raha hai ok ok,neutral,market neutral lag raha hai ok ok,market neutral lag raha hai ok ok
+Show normal tha superb,positive,show normal tha superb,show normal tha superb
+Show normal tha worst,negative,show normal tha worst,show normal tha worst
+Show normal tha thik thak,neutral,show normal tha thik thak,show normal tha thik thak
+Ye phone amazingggg hai! zabardast,positive,ye phone amazingg hai zabardast,ye phone amazing hai! zabardast
+"Product thik thak, price ke hisaab se waste",negative,product thik thak price ke hisaab se waste,"product thik thak, price ke hisaab se waste"
+Ye phone amazingggg hai! average,neutral,ye phone amazingg hai average,ye phone amazing hai! average
+Promotion mil gaya yaar! amazing,positive,promotion mil gaya yaar amazing,promotion mil gaya yaar! amazing
+Office day normal tha waste,negative,office day normal tha waste,office day normal tha waste
+Promotion mil gaya yaar! average,neutral,promotion mil gaya yaar average,promotion mil gaya yaar! average
+Crowded aur dirty location amazing,positive,crowded aur dirty location amazing,crowded aur dirty location amazing
+Place was breathtakingggg! bakwas,negative,place was breathtakingg bakwas,place was breathtaking! bakwas
+"Decent trip, view mast tha ok ok",neutral,decent trip view mast tha ok ok,"decent trip, view mast tha ok ok"
+Paper tough tha yaar great,positive,paper tough tha yaar great,paper tough tha yaar great
+Paper tough tha yaar pathetic,negative,paper tough tha yaar pathetic,paper tough tha yaar pathetic
+Class average thi average,neutral,class average thi average,class average thi average
+Market neutral lag raha hai zabardast,positive,market neutral lag raha hai zabardast,market neutral lag raha hai zabardast
+"Loss hua, bad day bakwas",negative,loss hua bad day bakwas,"loss hua, bad day bakwas"
+"Profit mila, feeling goooood! normal",neutral,profit mila feeling good normal,"profit mila, feeling good! normal"
+"App crash ho gaya, bakwas! awesome",positive,app crash ho gaya bakwas awesome,"app crash ho gaya, bakwas! awesome"
+App superb chal raha hai flop,negative,app superb chal raha hai flop,app superb chal raha hai flop
+App superb chal raha hai decent,neutral,app superb chal raha hai decent,app superb chal raha hai decent
+Place was breathtakingggg! mast,positive,place was breathtakingg mast,place was breathtaking! mast
+Place was breathtakingggg! waste,negative,place was breathtakingg waste,place was breathtaking! waste
+Crowded aur dirty location normal,neutral,crowded aur dirty location normal,crowded aur dirty location normal
+Market neutral lag raha hai fantastic,positive,market neutral lag raha hai fantastic,market neutral lag raha hai fantastic
+"Profit mila, feeling goooood! worst",negative,profit mila feeling good worst,"profit mila, feeling good! worst"
+"Loss hua, bad day ok ok",neutral,loss hua bad day ok ok,"loss hua, bad day ok ok"
+Ye phone amazingggg hai! superb,positive,ye phone amazingg hai superb,ye phone amazing hai! superb
+"Bakwaas product, waste of money bad",negative,bakwas product waste of money bad,"bakwas product, waste of money bad"
+"Product thik thak, price ke hisaab se ok ok",neutral,product thik thak price ke hisaab se ok ok,"product thik thak, price ke hisaab se ok ok"
+Yaar this movie was awwwesooome! awesome,positive,yaar this movie was awesome awesome,yaar this movie was a awesome
+Bahut booooring tha yeh film waste,negative,bahut boring tha yeh film waste,bahut boring tha yeh film waste
+"Movie thik thak thi, nothing special average",neutral,movie thik thak thi nothing special average,"movie thik thak thi, nothing special average"
+"Loss hua, bad day awesome",positive,loss hua bad day awesome,"loss hua, bad day awesome"
+"Loss hua, bad day bad",negative,loss hua bad day bad,"loss hua, bad day bad"
+"Profit mila, feeling goooood! ok ok",neutral,profit mila feeling good ok ok,"profit mila, feeling good! ok ok"
+"Ladai ho gayi, bura lag raha hai mast",positive,ladai ho gayi bura lag raha hai mast,"ladai ho gayi, bura lag raha hai mast"
+Normal day with family worst,negative,normal day with family worst,normal day with family worst
+Normal day with family decent,neutral,normal day with family decent,normal day with family decent
+Place was breathtakingggg! mast,positive,place was breathtakingg mast,place was breathtaking! mast
+Crowded aur dirty location flop,negative,crowded aur dirty location flop,crowded aur dirty location flop
+"Decent trip, view mast tha decent",neutral,decent trip view mast tha decent,"decent trip, view mast tha decent"
+Class average thi fantastic,positive,class average thi fantastic,class average thi fantastic
+Class average thi waste,negative,class average thi waste,class average thi waste
+Exam mast gaya! ok ok,neutral,exam mast gaya ok ok,exam mast gaya! ok ok
+Paper tough tha yaar superb,positive,paper tough tha yaar superb,paper tough tha yaar superb
+Exam mast gaya! flop,negative,exam mast gaya flop,exam mast gaya! flop
+Exam mast gaya! normal,neutral,exam mast gaya normal,exam mast gaya! normal
+Class average thi mast,positive,class average thi mast,class average thi mast
+Class average thi waste,negative,class average thi waste,class average thi waste
+Exam mast gaya! decent,neutral,exam mast gaya decent,exam mast gaya! decent
