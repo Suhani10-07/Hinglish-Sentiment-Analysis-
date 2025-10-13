@@ -77,7 +77,7 @@ Original : thx bro that was jhakaas performance
 Normalized: thanks bro that was jhakaas performance
 ------------------------------
 Original : timepass movie, but chill if you like comedy
-Normalized: timepass movie but chill if you like comedy
+Normalized: timepass movie but chill if you like comedy**
 ------------------------------
 Original : plz fix the sound, its baaad
 Normalized: please fix the sound its bad
