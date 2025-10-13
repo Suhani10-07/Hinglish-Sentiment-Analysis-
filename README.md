@@ -15,6 +15,7 @@ Dataset Description
 For this project, a custom Hinglish Sentiment Dataset was developed to better capture the diversity of real-world Hinglish usage beyond social media tweets. The dataset contains over 600 manually curated samples representing day-to-day conversational Hinglish. Each sentence expresses a clear emotional tone and is labeled as Positive, Negative, or Neutral.
 Unlike datasets limited to a single domain such as movie or product reviews, this dataset includes multi-domain content such as entertainment, education, travel, technology, health, and casual chat. This diversity ensures that the model can generalize well across various real-life communication contexts.
 The dataset was saved in CSV format (hinglish_sentiment_dataset_enhanced.csv) and was also expanded to include regex-normalized text for preprocessing validation.
+
  Dataset Composition
 Domain	Example Sentences	Sentiment Labels	Remarks
 Movies & Shows	“Yaar this movie was awesome!”, “Bahut boring tha yeh film.”	Positive / Negative	Common Hinglish entertainment opinions
@@ -30,10 +31,12 @@ Dataset Statistics
 •	Positive Samples: ~200
 •	Negative Samples: ~200
 •	Neutral Samples: ~200
+
 Columns:
 •	original_text → Raw Hinglish input
 •	normalized_text → Regex-cleaned Hinglish text
 •	sentiment → Classified label
+
 Examples of Data
 Normalized examples:
 ========================================
@@ -46,38 +49,9 @@ Normalized: bahut good performance really amazingg
 Original : sooooo goooood acting by everyone yaar
 Normalized: soo good acting by everyone yaar
 ------------------------------
-Original : fantastic storyline and grrreat direction
-Normalized: fantastic storyline and great direction
-------------------------------
-Original : ekdum mast comedy scenes throughout
-Normalized: mast comedy scenes throughout
-------------------------------
-Original : movie was totally booooring yaar
-Normalized: movie was totally boring yaar
-------------------------------
-Original : bakwaaaaas acting throughout film
-Normalized: bakwas acting throughout film
-------------------------------
-Original : really baaaad direction and story
-Normalized: really bad direction and story
-------------------------------
-Original : movie was okayyyy nothing special
-Normalized: movie was okayy nothing special
-------------------------------
-Original : decent enough performance overalll
-Normalized: decent enough performance overall
-------------------------------
-Original : averageeee story line nothing wow
-Normalized: average story line nothing wow
-------------------------------
-Original : pls pls dont waste time on this
-Normalized: please please dont waste time on this
-------------------------------
-Original : thx bro that was jhakaas performance
-Normalized: thanks bro that was jhakaas performance
-------------------------------
-Original : timepass movie, but chill if you like comedy
-Normalized: timepass movie but chill if you like comedy**
+Original : plz fix the sound, its baaad
+Normalized: please fix the sound its bad
+
 ------------------------------
 Original : plz fix the sound, its baaad
 Normalized: please fix the sound its bad
