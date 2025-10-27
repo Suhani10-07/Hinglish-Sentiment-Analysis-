@@ -1,22 +1,30 @@
 Hinglish Sentiment Analysis Using Regex Normalization and Machine Learning
+
 Abstract
+
 This project explores the intersection of computational linguistics and cultural linguistics by developing a Hinglish Sentiment Analysis system. Hinglish—an amalgamation of Hindi and English—is widely used in India’s multilingual social and digital conversations. The system employs regex-based normalization techniques to clean noisy Hinglish text and leverages machine learning algorithms to classify sentiment as positive, negative, or neutral.
 A custom dataset comprising over 600 manually curated Hinglish sentences across multiple domains (movies, food, travel, education, and daily life) was developed to train and evaluate the model. Logistic Regression achieved an accuracy of 93.33%, outperforming Naive Bayes (63.33%). This study demonstrates that even a moderately sized, high-quality dataset paired with robust preprocessing can yield highly accurate sentiment classification for code-mixed languages.
+
 Problem Statement
+
 Code-mixing, the practice of blending multiple languages in a single utterance, is common in multilingual societies. In India, many social media users write in Hinglish (a mix of Hindi and English) using the Roman alphabet arxiv.org. This poses significant challenges for NLP systems, since conventional tools assume monolingual input arxiv.org. For example, Hindi words written in Roman script do not match standard English or Hindi word lists, and non-standard spellings are common. The goal is to automatically classify the sentiment (positive/negative/neutral) of such Hinglish text from social media. This involves handling informal language, slang, emoticons, irregular spellings and code-switching, which complicates both preprocessing and modeling. Our system must address these challenges by normalizing the raw text and training robust models on code-mixed data.
 Objectives
+
 The main objectives of this project are:
+
 •	Develop a robust preprocessing pipeline for Hinglish text, using regex rules to clean noise (mentions, URLs, punctuation, etc.) and to normalize informal expressions.
 •	Design and train machine learning classifiers (e.g. SVM, Logistic Regression, Random Forest) using TF–IDF features to predict sentiment.
 •	Evaluate performance with standard metrics (accuracy, precision, recall, F1) and analyze error patterns (via confusion matrix).
 •	Deploy the model in a user-friendly web application using Flask, allowing users to enter text and receive sentiment labels.
 
 Dataset Description
+
 For this project, a custom Hinglish Sentiment Dataset was developed to better capture the diversity of real-world Hinglish usage beyond social media tweets. The dataset contains over 600 manually curated samples representing day-to-day conversational Hinglish. Each sentence expresses a clear emotional tone and is labeled as Positive, Negative, or Neutral.
 Unlike datasets limited to a single domain such as movie or product reviews, this dataset includes multi-domain content such as entertainment, education, travel, technology, health, and casual chat. This diversity ensures that the model can generalize well across various real-life communication contexts.
 The dataset was saved in CSV format (hinglish_sentiment_dataset_enhanced.csv) and was also expanded to include regex-normalized text for preprocessing validation.
 
- Dataset Composition
+Dataset Composition
+
 Domain	Example Sentences	Sentiment Labels	Remarks
 Movies & Shows	“Yaar this movie was awesome!”, “Bahut boring tha yeh film.”	Positive / Negative	Common Hinglish entertainment opinions
 Food & Dining	“Khana mast tha!”, “Taste boooring tha yaar.”	Positive / Negative	Restaurant and street food reviews
@@ -25,8 +33,10 @@ Products & Tech	“Phone mast chal raha hai!”, “Bakwaas quality ka product.�
 Education & Work	“Exam mast gaya!”, “Workload bohot zyada hai yaar.”	Positive / Negative	Student and professional remarks
 Daily Conversations	“Chill yaar, sab theek hai.”, “Pakka timepass tha!”	Neutral / Positive	Casual, chat-style Hinglish
 Health & Lifestyle	“Doctor ne acha treatment diya.”, “Bahut stress ho gaya.”	Positive / Negative	Common health-related sentiments
+
 Table 1: Custom Hinglish Sentiment Dataset across multiple domains.
 Dataset Statistics
+
 •	Total Samples: ~600
 •	Positive Samples: ~200
 •	Negative Samples: ~200
@@ -36,6 +46,7 @@ Columns:
 •	original_text → Raw Hinglish input
 •	normalized_text → Regex-cleaned Hinglish text
 •	sentiment → Classified label
+
 
 Examples of Data
 Normalized examples:
@@ -57,8 +68,10 @@ Original : plz fix the sound, its baaad
 Normalized: please fix the sound its bad
 
 Data Preprocessing and Regex Normalization
+
 The raw Hinglish tweets are highly informal and noisy. We perform iterative cleaning and normalization using regular expressions as the primary tool aclanthology.orggeeksforgeeks.org. First, all text is lowercased to ensure uniformity. Then, regex patterns remove Twitter-specific tokens: for example, user mentions (@\w+), hashtags, URLs (https?://\S+), and punctuation are stripped out aclanthology.org. Numeric digits and HTML artifacts (if any) are removed with regex (e.g. \d+ to eliminate numbers) geeksforgeeks.org. Contractions or slang can be expanded or mapped to standard forms using lookup tables (e.g. “u”→“you”, “yaar” stays as is) before or after regex cleaning.
 Next, we normalize elongated words and emoticons. A regex like r'(.)\1{2,}' is applied to collapse repeated characters: for example, “haaaappy”→“haappy” or “soooo”→“soo” (typically reducing runs to 2 characters). Common emoticons and laughter patterns can be mapped to tokens (“:)”→<smile>, “lol”→<laugh>). Stopwords (from both Hindi and English, after roman transliteration) are removed to focus on sentiment-bearing terms.
+
 •	Regex normalization handles noisy Hinglish patterns (e.g., “awwwesome” → “awesome”).
 •	Covers multiple conversation domains beyond reviews.
 •	Balanced sentiment distribution for fair model training.
