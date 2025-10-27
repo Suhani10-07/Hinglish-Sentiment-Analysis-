@@ -76,7 +76,6 @@ Normalized: yaar this movie was totally awesome
 ---
 
 ### 🧩 Regex Examples:
-```python
 (r'(a+w+e+s*o+m+e+)', 'awesome'),
 (r'(g+o+o+d+)', 'good'),
 (r'(b+a+d+)', 'bad'),
