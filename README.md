@@ -145,10 +145,11 @@ Enhance Flask UI with visualizations and batch analysis
 
 ## 📚 References
 
-Singh et al. (2021): Sentiment Analysis of Code-Mixed Social Media Text (Hinglish) – arXiv:2102.12149
-Patwa et al. (2020): SemEval-2020 Task 9: Overview of Sentiment Analysis of Code-Mixed Tweets – ACL Anthology
-JUNLP (2020): Sentiment Analysis of Hindi–English Code-Mixed Data Using Grid Search – SemEval-2020
-GeeksforGeeks (2025): Text Preprocessing in NLP
-AdapterHub (2023): Hinglish Sentiment (Twitter) Dataset
-Flask Documentation (2025): Pallets Projects
-Arif et al. (2025): Sentiment Classification of MyPertamina Reviews, IJIRT
+- **Singh et al. (2021):** *Sentiment Analysis of Code-Mixed Social Media Text (Hinglish)* – [arXiv:2102.12149](https://arxiv.org/abs/2102.12149)  
+- **Patwa et al. (2020):** *SemEval-2020 Task 9: Overview of Sentiment Analysis of Code-Mixed Tweets* – [ACL Anthology](https://aclanthology.org/2020.semeval-1.108)  
+- **JUNLP (2020):** *Sentiment Analysis of Hindi–English Code-Mixed Data Using Grid Search* – SemEval-2020  
+- **GeeksforGeeks (2025):** *Text Preprocessing in NLP* – [GeeksforGeeks](https://www.geeksforgeeks.org/text-preprocessing-in-nlp)  
+- **AdapterHub (2023):** *Hinglish Sentiment (Twitter) Dataset* – [AdapterHub](https://adapterhub.ml)  
+- **Flask Documentation (2025):** *Pallets Projects* – [Flask Docs](https://flask.palletsprojects.com)  
+- **Arif et al. (2025):** *Sentiment Classification of MyPertamina Reviews* – *International Journal of Innovative Research and Technology (IJIRT)*  
+
