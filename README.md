@@ -2,95 +2,75 @@
   <img src="https://github.com/yourusername/hinglish-sentiment-analysis/assets/banner.png" width="800" />
 </p>
 
-<h1 align="center">💬 Hinglish Sentiment Analysis using Regex Normalization & Machine Learning</h1>
+<h1 align="center">💬 Hinglish Sentiment Analysis Using Regex Normalization and Machine Learning</h1>
 
 <p align="center">
   <a href="https://github.com/yourusername/hinglish-sentiment-analysis/stargazers"><img src="https://img.shields.io/github/stars/yourusername/hinglish-sentiment-analysis?style=social" /></a>
   <a href="https://github.com/yourusername/hinglish-sentiment-analysis/network/members"><img src="https://img.shields.io/github/forks/yourusername/hinglish-sentiment-analysis?style=social" /></a>
-  <a href="https://your-live-demo-link"><img src="https://img.shields.io/badge/Demo-Live-green" /></a>
-  <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Built%20With-Flask-blue" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-Scikit%20Learn-yellow" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Language-Python-blue" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Framework-Flask-orange" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Model-Logistic%20Regression-yellow" /></a>
 </p>
 
 ---
 
-## 🧠 Overview
-> **Hinglish Sentiment Analysis** is a Natural Language Processing project that classifies sentiment (Positive / Negative / Neutral) in *Hinglish* — a mix of Hindi and English written in Roman script.  
-> It uses **Regex-based normalization** for text cleaning and **Machine Learning models** (Logistic Regression, Naive Bayes) for classification.  
-> The system achieves **93.33% accuracy** using a custom-built dataset of over 600 Hinglish sentences and is deployed through a simple **Flask web app**.
+## 🧠 Abstract
+This project explores the intersection of computational linguistics and cultural linguistics by developing a Hinglish Sentiment Analysis system. Hinglish—an amalgamation of Hindi and English—is widely used in India’s multilingual social and digital conversations. The system employs regex-based normalization techniques to clean noisy Hinglish text and leverages machine learning algorithms to classify sentiment as positive, negative, or neutral.
+
+A custom dataset comprising over 600 manually curated Hinglish sentences across multiple domains (movies, food, travel, education, and daily life) was developed to train and evaluate the model. Logistic Regression achieved an accuracy of **93.33%**, outperforming Naive Bayes (**63.33%**). This study demonstrates that even a moderately sized, high-quality dataset paired with robust preprocessing can yield highly accurate sentiment classification for code-mixed languages.
 
 ---
 
-<details>
-<summary><b>📘 Abstract (click to expand)</b></summary>
+## 🎯 Problem Statement
+Code-mixing, the practice of blending multiple languages in a single utterance, is common in multilingual societies. In India, many social media users write in Hinglish (a mix of Hindi and English) using the Roman alphabet. This poses significant challenges for NLP systems, since conventional tools assume monolingual input. For example, Hindi words written in Roman script do not match standard English or Hindi word lists, and non-standard spellings are common.
 
-This project explores the intersection of computational linguistics and cultural linguistics by developing a Hinglish Sentiment Analysis system. Hinglish—an amalgamation of Hindi and English—is widely used in India’s multilingual digital communication. The system employs regex-based normalization techniques to clean noisy Hinglish text and leverages machine learning algorithms to classify sentiment as positive, negative, or neutral.
-
-A custom dataset comprising 600+ manually curated Hinglish sentences across multiple domains (movies, food, travel, education, and daily life) was developed to train and evaluate the model. Logistic Regression achieved an accuracy of **93.33%**, outperforming Naive Bayes (**63.33%**). This demonstrates that even a moderately sized, high-quality dataset with robust preprocessing can yield highly accurate classification for code-mixed languages.
-
-</details>
+The goal is to automatically classify the sentiment (positive/negative/neutral) of such Hinglish text from social media. This involves handling informal language, slang, emoticons, irregular spellings and code-switching, which complicates both preprocessing and modeling. Our system must address these challenges by normalizing the raw text and training robust models on code-mixed data.
 
 ---
 
-<details>
-<summary><b>🎯 Problem Statement (click to expand)</b></summary>
-
-Code-mixing—the blending of multiple languages—is common in multilingual societies. In India, users frequently write in Hinglish (a mix of Hindi and English) using the Roman alphabet.  
-Conventional NLP tools assume monolingual input, making this a challenge.
-
-The objective is to **automatically classify Hinglish text sentiment** (positive, negative, neutral) by handling:
-- Informal spelling variations  
-- Slang and emoticons  
-- Code-switching  
-- Romanized Hindi  
-
-Our system addresses these challenges via regex normalization and robust ML training.
-
-</details>
-
----
-
-## 🧩 Objectives
-- ✅ Develop regex-based preprocessing for Hinglish text  
-- ✅ Build ML classifiers (SVM, Logistic Regression, Random Forest) using TF–IDF features  
-- ✅ Evaluate with metrics (Accuracy, Precision, Recall, F1)  
-- ✅ Deploy via Flask web application for real-time sentiment detection  
+## 🎯 Objectives
+- Develop a robust preprocessing pipeline for Hinglish text using regex rules to clean noise (mentions, URLs, punctuation, etc.) and normalize informal expressions.  
+- Design and train machine learning classifiers (e.g., SVM, Logistic Regression, Random Forest) using TF–IDF features to predict sentiment.  
+- Evaluate performance with standard metrics (accuracy, precision, recall, F1) and analyze error patterns (via confusion matrix).  
+- Deploy the model in a user-friendly web application using Flask, allowing users to enter text and receive sentiment labels.
 
 ---
 
 ## 🧾 Dataset Description
+For this project, a **custom Hinglish Sentiment Dataset** was developed to better capture the diversity of real-world Hinglish usage beyond social media tweets. The dataset contains over 600 manually curated samples representing day-to-day conversational Hinglish. Each sentence expresses a clear emotional tone and is labeled as Positive, Negative, or Neutral.
 
-The **Hinglish Sentiment Dataset** was custom-built to reflect real-world Hinglish usage.  
-It contains ~600 labeled sentences across multiple domains, each expressing a clear emotional tone.
+Unlike datasets limited to a single domain such as movie or product reviews, this dataset includes multi-domain content such as entertainment, education, travel, technology, health, and casual chat. This diversity ensures that the model can generalize well across various real-life communication contexts.
 
-| Domain | Example Sentences | Sentiment | Notes |
-|--------|------------------|------------|--------|
-| 🎬 Movies | “Yaar this movie was awesome!”, “Bahut boring tha yeh film.” | Positive / Negative | Common Hinglish opinions |
-| 🍔 Food | “Khana mast tha!”, “Taste boooring tha yaar.” | Positive / Negative | Restaurant and food reviews |
-| ✈️ Travel | “Goa trip was superb yaar!”, “Crowded aur dirty jagah thi.” | Positive / Negative | Travel experiences |
-| 💻 Tech | “Phone mast chal raha hai!”, “Bakwaas quality ka product.” | Positive / Negative | Product reviews |
-| 📚 Education | “Exam mast gaya!”, “Workload bohot zyada hai.” | Positive / Negative | Student and work remarks |
-| 🗣️ Daily Chat | “Chill yaar, sab theek hai.” | Neutral | Casual conversations |
-
-📊 **Total Samples:** ~600  
-Positive: ~200 | Negative: ~200 | Neutral: ~200  
+The dataset was saved in CSV format (`hinglish_sentiment_dataset_enhanced.csv`) and was also expanded to include regex-normalized text for preprocessing validation.
 
 ---
 
-## 🧹 Data Preprocessing & Regex Normalization
+### 📊 Dataset Composition
 
-The preprocessing pipeline cleans and standardizes Hinglish text using **regular expressions**:
+| Domain | Example Sentences | Sentiment Labels | Remarks |
+|--------|------------------|------------------|----------|
+| 🎬 Movies & Shows | “Yaar this movie was awesome!”, “Bahut boring tha yeh film.” | Positive / Negative | Common Hinglish entertainment opinions |
+| 🍔 Food & Dining | “Khana mast tha!”, “Taste boooring tha yaar.” | Positive / Negative | Restaurant and street food reviews |
+| ✈️ Travel & Places | “Goa trip was superb yaar!”, “Crowded aur dirty jagah thi.” | Positive / Negative | Travel and experience sharing |
+| 💻 Products & Tech | “Phone mast chal raha hai!”, “Bakwaas quality ka product.” | Positive / Negative | Product purchase experiences |
+| 📚 Education & Work | “Exam mast gaya!”, “Workload bohot zyada hai yaar.” | Positive / Negative | Student and professional remarks |
+| 🗣️ Daily Conversations | “Chill yaar, sab theek hai.”, “Pakka timepass tha!” | Neutral / Positive | Casual, chat-style Hinglish |
+| ❤️ Health & Lifestyle | “Doctor ne acha treatment diya.”, “Bahut stress ho gaya.” | Positive / Negative | Common health-related sentiments |
 
-```python
-# Regex Normalization Example
-import re
+📈 **Total Samples:** ~600  
+Positive: ~200 | Negative: ~200 | Neutral: ~200
 
-def normalize_text(text):
-    text = text.lower()
-    text = re.sub(r'@\w+|https?://\S+|[^a-z\s]', '', text)
-    text = re.sub(r'(.)\1{2,}', r'\1\1', text)  # collapse long repetitions
-    return text.strip()
+---
 
-sample = "Yaar this movie was totally awwwesome!!!!"
-print(normalize_text(sample))
-# Output: yaar this movie was totally awesome
+## 🧹 Data Preprocessing and Regex Normalization
+The raw Hinglish tweets are highly informal and noisy. We perform iterative cleaning and normalization using **regular expressions** as the primary tool.
+
+Key steps include:
+- Lowercasing text  
+- Removing Twitter tokens (mentions, hashtags, URLs)  
+- Removing digits, punctuation, and special symbols  
+- Expanding slang (e.g., “plz” → “please”)  
+- Collapsing repeated characters (`soooo` → `soo`)  
+- Handling emoticons and laughter (`lol` → `<laugh>`)  
+
+Example normalization:
