@@ -1,16 +1,13 @@
 <p align="center">
-  <img src="https://github.com/yourusername/hinglish-sentiment-analysis/assets/banner.png" width="800" />
+  <img src="https://github.com/Suhani10-07/hinglish-sentiment-analysis/assets/banner.png" alt="Hinglish Sentiment Analysis Banner" width="80%">
 </p>
 
-<h1 align="center">💬 Hinglish Sentiment Analysis Using Regex Normalization and Machine Learning</h1>
+<h1 align="center" style="font-weight:700; font-size:2.2em;">
+  🔍 Hinglish Sentiment Analysis  
+  <br>
+  <sub style="font-size:0.65em;">Regex Normalization • Machine Learning • Flask Web App</sub>
+</h1>
 
-<p align="center">
-  <a href="https://github.com/yourusername/hinglish-sentiment-analysis/stargazers"><img src="https://img.shields.io/github/stars/yourusername/hinglish-sentiment-analysis?style=social" /></a>
-  <a href="https://github.com/yourusername/hinglish-sentiment-analysis/network/members"><img src="https://img.shields.io/github/forks/yourusername/hinglish-sentiment-analysis?style=social" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Language-Python-blue" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Framework-Flask-orange" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Model-Logistic%20Regression-yellow" /></a>
-</p>
 
 ---
 
