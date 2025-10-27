@@ -85,12 +85,14 @@ Normalized: yaar this movie was totally awesome
 (r'(s+u+p+e+r+b+)', 'superb')
 
 
+
 ## ⚙️ Modeling and Methodology
 🧩 Approach:
 
 Feature Extraction: TF-IDF Vectorizer with bigram range (1,2)
 Models: Naive Bayes and Logistic Regression
 Evaluation Metrics: Accuracy, Precision, Recall, F1
+
 
 ## 🧮 Sample Code:
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -104,6 +106,7 @@ model.fit(X_train, y_train)
 pred = model.predict(X_test)
 print(classification_report(y_test, pred))
 
+
 ## 🏆 Evaluation Metrics and Results
 Model	Accuracy	F1 Score
 Logistic Regression	93.33%	0.69
@@ -111,6 +114,7 @@ Naive Bayes	63.33%	0.52
 
 The confusion matrix revealed that most misclassifications occurred between neutral and weakly positive/negative tweets, suggesting class imbalance.
 Logistic Regression consistently outperformed Naive Bayes, validating regex normalization and TF–IDF feature robustness.
+
 
 ## 🧠 System Architecture
 flowchart TD
@@ -125,6 +129,7 @@ E --> F[Flask Web App Interface]
 The final system is deployed as a Flask web app.
 Users can enter Hinglish sentences and receive instant sentiment predictions.
 
+
 ## ⚙️ Pipeline:
 User Input → Regex Normalization → TF-IDF → ML Model → Sentiment Output
 
@@ -135,6 +140,7 @@ Output: Positive 😊
 
 <p align="center"> <img src="./assets/demo.gif" width="600"/> </p>
 
+
 ## 🔮 Future Work
 
 Integrate transformer-based models (HingBERT, Gemma, Qwen)
@@ -142,6 +148,7 @@ Expand dataset to 2,000+ samples
 Add speech-based Hinglish sentiment recognition
 Explore multi-task learning for intent detection and translation
 Enhance Flask UI with visualizations and batch analysis
+
 
 ## 📚 References
 
