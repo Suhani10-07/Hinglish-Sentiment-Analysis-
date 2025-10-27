@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Suhani10-07/hinglish-sentiment-analysis/assets/banner.png" alt="Hinglish Sentiment Analysis Banner" width="80%">
-</p>
+
 
 <h1 align="center" style="font-weight:700; font-size:2.2em;">
   🔍 Hinglish Sentiment Analysis  
