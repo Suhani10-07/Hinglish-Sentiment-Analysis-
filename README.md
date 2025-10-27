@@ -69,3 +69,83 @@ Key steps include:
 - Handling emoticons and laughter (`lol` → `<laugh>`)  
 
 Example normalization:
+Original : yaar this movie was totally awwwesome!!!!
+Normalized: yaar this movie was totally awesome
+
+
+Regex examples:
+```python
+(r'(a+w+e+s*o+m+e+)', 'awesome'),
+(r'(g+o+o+d+)', 'good'),
+(r'(b+a+d+)', 'bad'),
+(r'(b+o+r+i+n+g+)', 'boring'),
+(r'(a+m+a+z+i+n+g+)', 'amazing'),
+(r'(f+a+n+t+a+s+t+i+c+)', 'fantastic'),
+(r'(s+u+p+e+r+b+)', 'superb')
+
+
+Modeling and Methodology
+Approach:
+Feature Extraction: TF-IDF Vectorizer with bigram range (1,2)
+Models: Naive Bayes and Logistic Regression
+Evaluation Metrics: Accuracy, Precision, Recall, F1
+
+Sample Code:
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report
+
+vectorizer = TfidfVectorizer(ngram_range=(1,2))
+X = vectorizer.fit_transform(text_data)
+model = LogisticRegression()
+model.fit(X_train, y_train)
+pred = model.predict(X_test)
+print(classification_report(y_test, pred))
+
+Evaluation Metrics and Results
+Model	Accuracy	F1 Score
+Logistic Regression	93.33%	0.69
+Naive Bayes	63.33%	0.52
+
+The confusion matrix revealed that most misclassifications occurred between neutral and weakly positive/negative tweets, suggesting class imbalance.
+Logistic Regression consistently outperformed Naive Bayes, validating regex normalization and TF–IDF feature robustness.
+
+System Architecture
+flowchart TD
+A[User Input] --> B[Regex Normalization]
+B --> C[TF-IDF Vectorizer]
+C --> D[ML Classifier]
+D --> E[Sentiment Output]
+E --> F[Flask Web App Interface]
+
+Web Application Design
+The final system is deployed as a Flask web app.
+Users can enter Hinglish sentences and receive instant sentiment predictions.
+
+Pipeline:
+User Input → Regex Normalization → TF-IDF → ML Model → Sentiment Output
+
+Example:
+
+Input: "Yaar this phone is awesome!"
+Output: Positive 
+
+<p align="center"> <img src="./assets/demo.gif" width="600"/> </p>
+
+Future Work
+
+Integrate transformer-based models (HingBERT, Gemma, Qwen)
+Expand dataset to 2,000+ samples
+Add speech-based Hinglish sentiment recognition
+Explore multi-task learning for intent detection and translation
+Enhance Flask UI with visualizations and batch analysis
+
+References
+
+Singh et al. (2021): Sentiment Analysis of Code-Mixed Social Media Text (Hinglish) – arXiv:2102.12149
+Patwa et al. (2020): SemEval-2020 Task 9: Overview of Sentiment Analysis of Code-Mixed Tweets – ACL Anthology
+JUNLP (2020): Sentiment Analysis of Hindi–English Code-Mixed Data Using Grid Search – SemEval-2020
+GeeksforGeeks (2025): Text Preprocessing in NLP
+AdapterHub (2023): Hinglish Sentiment (Twitter) Dataset
+Flask Documentation (2025): Pallets Projects
+Arif et al. (2025): Sentiment Classification of MyPertamina Reviews, IJIRT
