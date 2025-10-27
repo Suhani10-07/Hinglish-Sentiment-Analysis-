@@ -72,7 +72,7 @@ Example normalization:
 Original : yaar this movie was totally awwwesome!!!!
 Normalized: yaar this movie was totally awesome
 
-
+---
 Regex examples:
 ```python
 (r'(a+w+e+s*o+m+e+)', 'awesome'),
@@ -149,3 +149,4 @@ GeeksforGeeks (2025): Text Preprocessing in NLP
 AdapterHub (2023): Hinglish Sentiment (Twitter) Dataset
 Flask Documentation (2025): Pallets Projects
 Arif et al. (2025): Sentiment Classification of MyPertamina Reviews, IJIRT
+---
